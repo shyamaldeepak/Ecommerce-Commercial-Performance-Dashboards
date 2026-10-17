@@ -1,0 +1,68 @@
+version: 2
+
+sources:
+  - name: raw_ecommerce
+    schema: main
+    description: "Raw relational ecommerce database containing 550,759 combined records from 8 source tables."
+    tables:
+      - name: raw_customers
+        description: "Customer registry containing 96,096 records with unique IDs and geographic locations."
+        columns:
+          - name: customer_id
+            description: "Primary key for customer order association."
+          - name: customer_unique_id
+            description: "Unique persistent identifier for repeat customer analysis."
+
+      - name: raw_orders
+        description: "Orders registry containing 99,441 transaction records with lifecycle timestamp milestones."
+        columns:
+          - name: order_id
+            description: "Primary key for order."
+          - name: customer_id
+            description: "Foreign key referencing raw_customers."
+
+      - name: raw_order_items
+        description: "Item line items containing 112,650 records with pricing and freight costs."
+        columns:
+          - name: order_id
+            description: "Foreign key referencing raw_orders."
+          - name: order_item_id
+            description: "Sequential line item number within order."
+          - name: product_id
+            description: "Foreign key referencing raw_products."
+          - name: seller_id
+            description: "Foreign key referencing raw_sellers."
+
+      - name: raw_order_payments
+        description: "Payment transaction logs containing 103,886 records supporting split payment methods."
+        columns:
+          - name: order_id
+            description: "Foreign key referencing raw_orders."
+          - name: payment_sequential
+            description: "Payment sequence number for the order."
+
+      - name: raw_order_reviews
+        description: "Customer feedback ratings containing 99,224 review records."
+        columns:
+          - name: review_id
+            description: "Primary key for customer review."
+          - name: order_id
+            description: "Foreign key referencing raw_orders."
+
+      - name: raw_products
+        description: "Product catalog containing 32,951 SKU items across 20 categories."
+        columns:
+          - name: product_id
+            description: "Primary key for product."
+
+      - name: raw_sellers
+        description: "Marketplace seller registry containing 3,095 merchant profiles."
+        columns:
+          - name: seller_id
+            description: "Primary key for seller."
+
+      - name: raw_promotions
+        description: "Promotional marketing campaigns containing 3,416 active and historical campaign codes."
+        columns:
+          - name: promo_id
+            description: "Primary key for promotion."

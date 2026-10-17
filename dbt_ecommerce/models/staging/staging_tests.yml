@@ -1,0 +1,135 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: "Staged customer profiles"
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_unique_id
+        tests:
+          - not_null
+
+  - name: stg_orders
+    description: "Staged orders with timestamps and delivery SLA flags"
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+      - name: order_status
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['delivered', 'shipped', 'canceled', 'invoiced']
+      - name: is_delivered
+        tests:
+          - accepted_values:
+              values: [0, 1]
+      - name: order_purchase_timestamp
+        tests:
+          - not_null
+
+  - name: stg_order_items
+    description: "Staged line items with prices and shipping fees"
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_orders')
+              field: order_id
+      - name: order_item_id
+        tests:
+          - not_null
+      - name: product_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_products')
+              field: product_id
+      - name: seller_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_sellers')
+              field: seller_id
+      - name: item_price
+        tests:
+          - not_null
+      - name: item_freight
+        tests:
+          - not_null
+
+  - name: stg_order_payments
+    description: "Staged order payments"
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_orders')
+              field: order_id
+      - name: payment_type
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['credit_card', 'boleto', 'voucher', 'debit_card']
+      - name: payment_value
+        tests:
+          - not_null
+
+  - name: stg_order_reviews
+    description: "Staged customer review scores"
+    columns:
+      - name: review_id
+        tests:
+          - unique
+          - not_null
+      - name: order_id
+        tests:
+          - not_null
+      - name: review_score
+        tests:
+          - not_null
+          - accepted_values:
+              values: [1, 2, 3, 4, 5]
+
+  - name: stg_products
+    description: "Staged product dimension catalog"
+    columns:
+      - name: product_id
+        tests:
+          - unique
+          - not_null
+      - name: product_category_name
+        tests:
+          - not_null
+
+  - name: stg_sellers
+    description: "Staged sellers registry"
+    columns:
+      - name: seller_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_promotions
+    description: "Staged marketing promotions"
+    columns:
+      - name: promo_id
+        tests:
+          - unique
+          - not_null
+      - name: is_active
+        tests:
+          - accepted_values:
+              values: [true, false]

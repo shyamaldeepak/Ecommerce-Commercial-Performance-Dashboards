@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: int_order_items_reconciled
+    description: "Intermediate reconciled order items with grain-safe proportional payment allocation"
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+      - name: is_reconciled_to_cent
+        tests:
+          - accepted_values:
+              values: [1]
+
+  - name: int_customer_orders_summary
+    description: "Customer aggregated order summary and RFM segmentation"
+    columns:
+      - name: customer_unique_id
+        tests:
+          - unique
+          - not_null
+      - name: rfm_customer_segment
+        tests:
+          - not_null
+
+  - name: int_seller_performance_summary
+    description: "Seller operations summary and fulfillment metrics"
+    columns:
+      - name: seller_id
+        tests:
+          - unique
+          - not_null
+      - name: seller_performance_tier
+        tests:
+          - not_null

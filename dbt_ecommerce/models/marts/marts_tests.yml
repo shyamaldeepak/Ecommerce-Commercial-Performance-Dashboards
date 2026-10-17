@@ -1,0 +1,37 @@
+version: 2
+
+models:
+  - name: mart_revenue
+    description: "Commercial Revenue mart matching Power BI Page 1"
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null
+      - name: is_reconciled_to_cent
+        tests:
+          - accepted_values:
+              values: [1]
+
+  - name: mart_customers
+    description: "Customer Cohort & LTV mart matching Power BI Page 2"
+    columns:
+      - name: customer_unique_id
+        tests:
+          - unique
+          - not_null
+
+  - name: mart_products
+    description: "Product & Category Performance mart matching Power BI Page 3"
+    columns:
+      - name: product_id
+        tests:
+          - unique
+          - not_null
+
+  - name: mart_sellers
+    description: "Seller Operations & GMV mart matching Power BI Page 4"
+    columns:
+      - name: seller_id
+        tests:
+          - unique

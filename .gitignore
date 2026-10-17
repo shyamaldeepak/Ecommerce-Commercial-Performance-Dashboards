@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.venv
+env/
+venv/
+
+# dbt
+dbt_ecommerce/target/
+dbt_ecommerce/dbt_packages/
+dbt_ecommerce/logs/
+dbt_ecommerce/.user.yml
+*.user.yml
+
+# Database binary and temporary files
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp

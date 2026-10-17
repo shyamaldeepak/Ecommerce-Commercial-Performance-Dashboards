@@ -1,0 +1,17 @@
+ecommerce_profile:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/ecommerce.duckdb"
+      threads: 4
+    prod_snowflake:
+      type: snowflake
+      account: "xy12345.us-east-1"
+      user: "COMMERCIAL_ANALYST"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD', '') }}"
+      role: "ANALYST_ROLE"
+      database: "ECOMMERCE_DW"
+      warehouse: "TRANSFORMING_WH"
+      schema: "ANALYTICS"
+      threads: 8

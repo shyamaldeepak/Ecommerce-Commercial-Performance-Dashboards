@@ -1,0 +1,3096 @@
+seller_id,seller_zip_code_prefix,seller_city,seller_state
+s_000001,13278,curitiba,PR
+s_000002,42098,recife,PE
+s_000003,28289,fortaleza,CE
+s_000004,98696,curitiba,PR
+s_000005,21395,guarulhos,SP
+s_000006,65302,niteroi,RJ
+s_000007,13905,rio de janeiro,RJ
+s_000008,38657,belo horizonte,MG
+s_000009,76237,fortaleza,CE
+s_000010,13478,ribeirao preto,SP
+s_000011,36062,guarulhos,SP
+s_000012,64987,guarulhos,SP
+s_000013,68878,fortaleza,CE
+s_000014,46463,niteroi,RJ
+s_000015,30926,sao paulo,SP
+s_000016,54597,manaus,AM
+s_000017,30379,recife,PE
+s_000018,54118,brasilia,DF
+s_000019,22156,curitiba,PR
+s_000020,22676,belem,PA
+s_000021,55082,goiania,GO
+s_000022,44671,ribeirao preto,SP
+s_000023,70217,rio de janeiro,RJ
+s_000024,26361,guarulhos,SP
+s_000025,20328,belem,PA
+s_000026,48427,guarulhos,SP
+s_000027,57400,ribeirao preto,SP
+s_000028,35203,niteroi,RJ
+s_000029,16006,belo horizonte,MG
+s_000030,47930,fortaleza,CE
+s_000031,40512,belo horizonte,MG
+s_000032,59823,curitiba,PR
+s_000033,69429,recife,PE
+s_000034,31319,goiania,GO
+s_000035,56566,goiania,GO
+s_000036,97841,brasilia,DF
+s_000037,99593,recife,PE
+s_000038,89840,belo horizonte,MG
+s_000039,80010,salvador,BA
+s_000040,31417,fortaleza,CE
+s_000041,59735,vitoria,ES
+s_000042,93886,recife,PE
+s_000043,38785,guarulhos,SP
+s_000044,17331,florianopolis,SC
+s_000045,14207,fortaleza,CE
+s_000046,62581,florianopolis,SC
+s_000047,18675,recife,PE
+s_000048,84341,brasilia,DF
+s_000049,37869,florianopolis,SC
+s_000050,61856,santos,SP
+s_000051,28726,vitoria,ES
+s_000052,28301,recife,PE
+s_000053,83579,fortaleza,CE
+s_000054,44438,guarulhos,SP
+s_000055,66155,niteroi,RJ
+s_000056,62350,niteroi,RJ
+s_000057,38746,goiania,GO
+s_000058,76784,porto alegre,RS
+s_000059,21915,santos,SP
+s_000060,24371,rio de janeiro,RJ
+s_000061,92240,porto alegre,RS
+s_000062,99192,salvador,BA
+s_000063,88172,manaus,AM
+s_000064,60432,belo horizonte,MG
+s_000065,88104,belem,PA
+s_000066,79352,vitoria,ES
+s_000067,82512,recife,PE
+s_000068,99166,sao paulo,SP
+s_000069,99353,curitiba,PR
+s_000070,44973,guarulhos,SP
+s_000071,24621,florianopolis,SC
+s_000072,66985,campinas,SP
+s_000073,69470,salvador,BA
+s_000074,44522,sao paulo,SP
+s_000075,33416,sao bernardo do campo,SP
+s_000076,23947,sao bernardo do campo,SP
+s_000077,93748,campinas,SP
+s_000078,89818,sao bernardo do campo,SP
+s_000079,30032,brasilia,DF
+s_000080,31174,goiania,GO
+s_000081,79514,guarulhos,SP
+s_000082,88504,sao paulo,SP
+s_000083,74042,florianopolis,SC
+s_000084,24662,sao paulo,SP
+s_000085,50306,goiania,GO
+s_000086,17592,fortaleza,CE
+s_000087,84364,fortaleza,CE
+s_000088,21226,belo horizonte,MG
+s_000089,19071,santos,SP
+s_000090,26483,guarulhos,SP
+s_000091,96474,porto alegre,RS
+s_000092,82063,santos,SP
+s_000093,44741,salvador,BA
+s_000094,89507,sao bernardo do campo,SP
+s_000095,37760,manaus,AM
+s_000096,36365,guarulhos,SP
+s_000097,62296,campinas,SP
+s_000098,67422,goiania,GO
+s_000099,69177,sao bernardo do campo,SP
+s_000100,42493,curitiba,PR
+s_000101,18392,fortaleza,CE
+s_000102,12757,florianopolis,SC
+s_000103,82603,niteroi,RJ
+s_000104,87128,fortaleza,CE
+s_000105,10942,fortaleza,CE
+s_000106,92719,belo horizonte,MG
+s_000107,40007,rio de janeiro,RJ
+s_000108,14117,belo horizonte,MG
+s_000109,19287,florianopolis,SC
+s_000110,41195,sao bernardo do campo,SP
+s_000111,97684,recife,PE
+s_000112,38080,santos,SP
+s_000113,27342,guarulhos,SP
+s_000114,85525,niteroi,RJ
+s_000115,41850,santos,SP
+s_000116,63354,santos,SP
+s_000117,22363,brasilia,DF
+s_000118,96374,curitiba,PR
+s_000119,56438,manaus,AM
+s_000120,63883,manaus,AM
+s_000121,17100,vitoria,ES
+s_000122,17944,curitiba,PR
+s_000123,54473,belem,PA
+s_000124,42591,curitiba,PR
+s_000125,34931,brasilia,DF
+s_000126,68800,guarulhos,SP
+s_000127,65296,porto alegre,RS
+s_000128,46509,salvador,BA
+s_000129,42742,vitoria,ES
+s_000130,68082,belo horizonte,MG
+s_000131,22833,guarulhos,SP
+s_000132,95477,rio de janeiro,RJ
+s_000133,11934,guarulhos,SP
+s_000134,40982,belo horizonte,MG
+s_000135,63269,salvador,BA
+s_000136,73092,santos,SP
+s_000137,62565,brasilia,DF
+s_000138,31579,rio de janeiro,RJ
+s_000139,10282,belem,PA
+s_000140,44760,belem,PA
+s_000141,47388,vitoria,ES
+s_000142,82845,manaus,AM
+s_000143,30289,santos,SP
+s_000144,48890,brasilia,DF
+s_000145,17665,brasilia,DF
+s_000146,81066,niteroi,RJ
+s_000147,51104,rio de janeiro,RJ
+s_000148,16572,rio de janeiro,RJ
+s_000149,72493,niteroi,RJ
+s_000150,79615,sao bernardo do campo,SP
+s_000151,17455,salvador,BA
+s_000152,20500,sao bernardo do campo,SP
+s_000153,18981,salvador,BA
+s_000154,18907,ribeirao preto,SP
+s_000155,62923,fortaleza,CE
+s_000156,84668,curitiba,PR
+s_000157,85880,fortaleza,CE
+s_000158,15209,ribeirao preto,SP
+s_000159,20745,ribeirao preto,SP
+s_000160,96163,manaus,AM
+s_000161,84085,niteroi,RJ
+s_000162,51467,sao bernardo do campo,SP
+s_000163,36772,recife,PE
+s_000164,41285,florianopolis,SC
+s_000165,61876,recife,PE
+s_000166,98039,porto alegre,RS
+s_000167,69929,campinas,SP
+s_000168,19508,florianopolis,SC
+s_000169,70068,sao paulo,SP
+s_000170,83792,ribeirao preto,SP
+s_000171,19602,curitiba,PR
+s_000172,37938,guarulhos,SP
+s_000173,44760,sao bernardo do campo,SP
+s_000174,55745,porto alegre,RS
+s_000175,42018,belo horizonte,MG
+s_000176,47353,goiania,GO
+s_000177,67433,salvador,BA
+s_000178,49651,guarulhos,SP
+s_000179,95717,ribeirao preto,SP
+s_000180,11025,sao bernardo do campo,SP
+s_000181,49240,guarulhos,SP
+s_000182,27601,curitiba,PR
+s_000183,25129,recife,PE
+s_000184,82512,curitiba,PR
+s_000185,45697,porto alegre,RS
+s_000186,89276,campinas,SP
+s_000187,54942,brasilia,DF
+s_000188,93130,brasilia,DF
+s_000189,76244,recife,PE
+s_000190,42914,santos,SP
+s_000191,22097,rio de janeiro,RJ
+s_000192,46265,manaus,AM
+s_000193,10464,rio de janeiro,RJ
+s_000194,27146,florianopolis,SC
+s_000195,31178,recife,PE
+s_000196,82309,vitoria,ES
+s_000197,83519,manaus,AM
+s_000198,24663,sao paulo,SP
+s_000199,29536,belo horizonte,MG
+s_000200,14722,guarulhos,SP
+s_000201,86350,goiania,GO
+s_000202,29410,guarulhos,SP
+s_000203,26704,manaus,AM
+s_000204,50404,rio de janeiro,RJ
+s_000205,15229,goiania,GO
+s_000206,37535,goiania,GO
+s_000207,97416,fortaleza,CE
+s_000208,56357,curitiba,PR
+s_000209,63264,guarulhos,SP
+s_000210,30257,ribeirao preto,SP
+s_000211,31299,fortaleza,CE
+s_000212,64040,salvador,BA
+s_000213,33509,sao paulo,SP
+s_000214,63964,florianopolis,SC
+s_000215,44970,fortaleza,CE
+s_000216,24168,salvador,BA
+s_000217,15075,belem,PA
+s_000218,39154,santos,SP
+s_000219,70332,brasilia,DF
+s_000220,50001,goiania,GO
+s_000221,39219,fortaleza,CE
+s_000222,96511,sao paulo,SP
+s_000223,62227,brasilia,DF
+s_000224,46517,florianopolis,SC
+s_000225,46585,belo horizonte,MG
+s_000226,94080,goiania,GO
+s_000227,62386,sao bernardo do campo,SP
+s_000228,53404,guarulhos,SP
+s_000229,25118,sao paulo,SP
+s_000230,33405,recife,PE
+s_000231,44795,niteroi,RJ
+s_000232,24208,rio de janeiro,RJ
+s_000233,66959,ribeirao preto,SP
+s_000234,51114,goiania,GO
+s_000235,89457,manaus,AM
+s_000236,25157,sao bernardo do campo,SP
+s_000237,85574,belem,PA
+s_000238,43386,brasilia,DF
+s_000239,67154,rio de janeiro,RJ
+s_000240,78146,sao paulo,SP
+s_000241,97900,guarulhos,SP
+s_000242,57739,brasilia,DF
+s_000243,19171,manaus,AM
+s_000244,91678,florianopolis,SC
+s_000245,96951,florianopolis,SC
+s_000246,49363,curitiba,PR
+s_000247,50538,sao bernardo do campo,SP
+s_000248,52753,manaus,AM
+s_000249,48752,belem,PA
+s_000250,26683,guarulhos,SP
+s_000251,65108,brasilia,DF
+s_000252,98777,belem,PA
+s_000253,90676,salvador,BA
+s_000254,49446,niteroi,RJ
+s_000255,81819,belem,PA
+s_000256,49829,sao paulo,SP
+s_000257,37549,campinas,SP
+s_000258,86019,manaus,AM
+s_000259,95813,ribeirao preto,SP
+s_000260,70946,florianopolis,SC
+s_000261,67954,vitoria,ES
+s_000262,77000,brasilia,DF
+s_000263,32241,santos,SP
+s_000264,47196,belo horizonte,MG
+s_000265,97012,sao bernardo do campo,SP
+s_000266,53933,ribeirao preto,SP
+s_000267,40784,belo horizonte,MG
+s_000268,39444,campinas,SP
+s_000269,29313,brasilia,DF
+s_000270,16057,sao paulo,SP
+s_000271,72277,fortaleza,CE
+s_000272,19545,ribeirao preto,SP
+s_000273,64321,vitoria,ES
+s_000274,35485,niteroi,RJ
+s_000275,74799,belem,PA
+s_000276,41979,belem,PA
+s_000277,95990,porto alegre,RS
+s_000278,23970,sao paulo,SP
+s_000279,38683,manaus,AM
+s_000280,77889,salvador,BA
+s_000281,16582,vitoria,ES
+s_000282,42662,guarulhos,SP
+s_000283,69829,curitiba,PR
+s_000284,70901,porto alegre,RS
+s_000285,83259,sao bernardo do campo,SP
+s_000286,51588,ribeirao preto,SP
+s_000287,90301,vitoria,ES
+s_000288,65933,sao bernardo do campo,SP
+s_000289,68446,guarulhos,SP
+s_000290,72216,salvador,BA
+s_000291,43972,vitoria,ES
+s_000292,93579,fortaleza,CE
+s_000293,78327,recife,PE
+s_000294,92149,santos,SP
+s_000295,45992,fortaleza,CE
+s_000296,20155,vitoria,ES
+s_000297,40735,campinas,SP
+s_000298,54020,recife,PE
+s_000299,80798,florianopolis,SC
+s_000300,28136,belo horizonte,MG
+s_000301,40311,porto alegre,RS
+s_000302,30028,belem,PA
+s_000303,18418,brasilia,DF
+s_000304,63424,manaus,AM
+s_000305,81121,florianopolis,SC
+s_000306,64496,vitoria,ES
+s_000307,37110,rio de janeiro,RJ
+s_000308,61049,manaus,AM
+s_000309,12560,niteroi,RJ
+s_000310,59857,niteroi,RJ
+s_000311,10772,santos,SP
+s_000312,49139,goiania,GO
+s_000313,64921,belem,PA
+s_000314,81582,guarulhos,SP
+s_000315,38906,ribeirao preto,SP
+s_000316,38760,santos,SP
+s_000317,67125,recife,PE
+s_000318,13804,santos,SP
+s_000319,54057,belem,PA
+s_000320,31632,belem,PA
+s_000321,26728,vitoria,ES
+s_000322,80008,ribeirao preto,SP
+s_000323,61645,sao paulo,SP
+s_000324,83975,niteroi,RJ
+s_000325,21003,sao paulo,SP
+s_000326,27786,manaus,AM
+s_000327,33819,vitoria,ES
+s_000328,44099,rio de janeiro,RJ
+s_000329,52906,belem,PA
+s_000330,69598,brasilia,DF
+s_000331,54236,florianopolis,SC
+s_000332,46471,belem,PA
+s_000333,43065,manaus,AM
+s_000334,71644,belo horizonte,MG
+s_000335,80702,sao paulo,SP
+s_000336,55870,rio de janeiro,RJ
+s_000337,95215,fortaleza,CE
+s_000338,95426,belo horizonte,MG
+s_000339,14067,rio de janeiro,RJ
+s_000340,36130,fortaleza,CE
+s_000341,91439,sao paulo,SP
+s_000342,41266,porto alegre,RS
+s_000343,72070,porto alegre,RS
+s_000344,83920,curitiba,PR
+s_000345,70952,brasilia,DF
+s_000346,58351,recife,PE
+s_000347,89415,salvador,BA
+s_000348,25012,ribeirao preto,SP
+s_000349,50768,salvador,BA
+s_000350,85849,curitiba,PR
+s_000351,50888,sao paulo,SP
+s_000352,98781,niteroi,RJ
+s_000353,61990,belem,PA
+s_000354,19961,brasilia,DF
+s_000355,92213,niteroi,RJ
+s_000356,23356,fortaleza,CE
+s_000357,99687,campinas,SP
+s_000358,25866,ribeirao preto,SP
+s_000359,15383,niteroi,RJ
+s_000360,79827,goiania,GO
+s_000361,96706,manaus,AM
+s_000362,19038,goiania,GO
+s_000363,94874,sao bernardo do campo,SP
+s_000364,11658,florianopolis,SC
+s_000365,74251,manaus,AM
+s_000366,66822,curitiba,PR
+s_000367,93307,goiania,GO
+s_000368,30052,vitoria,ES
+s_000369,33086,manaus,AM
+s_000370,95256,sao bernardo do campo,SP
+s_000371,90728,recife,PE
+s_000372,73372,guarulhos,SP
+s_000373,67091,vitoria,ES
+s_000374,45179,niteroi,RJ
+s_000375,42177,florianopolis,SC
+s_000376,46559,belo horizonte,MG
+s_000377,41963,vitoria,ES
+s_000378,84691,vitoria,ES
+s_000379,97580,ribeirao preto,SP
+s_000380,54092,belem,PA
+s_000381,74789,sao paulo,SP
+s_000382,33834,florianopolis,SC
+s_000383,37802,santos,SP
+s_000384,43862,goiania,GO
+s_000385,46655,florianopolis,SC
+s_000386,46211,ribeirao preto,SP
+s_000387,11330,guarulhos,SP
+s_000388,35042,sao bernardo do campo,SP
+s_000389,41635,belo horizonte,MG
+s_000390,74038,manaus,AM
+s_000391,41499,guarulhos,SP
+s_000392,94659,santos,SP
+s_000393,68743,santos,SP
+s_000394,22196,sao paulo,SP
+s_000395,39045,campinas,SP
+s_000396,41890,belem,PA
+s_000397,97026,campinas,SP
+s_000398,58368,niteroi,RJ
+s_000399,82544,santos,SP
+s_000400,55056,sao bernardo do campo,SP
+s_000401,82140,manaus,AM
+s_000402,56112,florianopolis,SC
+s_000403,45509,vitoria,ES
+s_000404,42951,campinas,SP
+s_000405,25814,fortaleza,CE
+s_000406,51359,brasilia,DF
+s_000407,80236,curitiba,PR
+s_000408,35105,salvador,BA
+s_000409,73464,brasilia,DF
+s_000410,87278,recife,PE
+s_000411,88222,sao bernardo do campo,SP
+s_000412,23176,campinas,SP
+s_000413,48829,brasilia,DF
+s_000414,57301,fortaleza,CE
+s_000415,49618,salvador,BA
+s_000416,80010,sao paulo,SP
+s_000417,45954,porto alegre,RS
+s_000418,17146,rio de janeiro,RJ
+s_000419,48290,guarulhos,SP
+s_000420,93606,porto alegre,RS
+s_000421,23446,santos,SP
+s_000422,85243,sao paulo,SP
+s_000423,71524,campinas,SP
+s_000424,67733,santos,SP
+s_000425,34164,florianopolis,SC
+s_000426,43092,rio de janeiro,RJ
+s_000427,24953,santos,SP
+s_000428,62521,belo horizonte,MG
+s_000429,19710,santos,SP
+s_000430,92502,niteroi,RJ
+s_000431,29887,rio de janeiro,RJ
+s_000432,83772,porto alegre,RS
+s_000433,21164,campinas,SP
+s_000434,25525,fortaleza,CE
+s_000435,64548,guarulhos,SP
+s_000436,88135,ribeirao preto,SP
+s_000437,39581,ribeirao preto,SP
+s_000438,59856,sao bernardo do campo,SP
+s_000439,68028,vitoria,ES
+s_000440,87139,campinas,SP
+s_000441,50026,manaus,AM
+s_000442,91399,niteroi,RJ
+s_000443,89905,rio de janeiro,RJ
+s_000444,37235,curitiba,PR
+s_000445,44687,brasilia,DF
+s_000446,30585,belo horizonte,MG
+s_000447,32782,fortaleza,CE
+s_000448,19838,guarulhos,SP
+s_000449,10350,salvador,BA
+s_000450,69048,manaus,AM
+s_000451,71592,ribeirao preto,SP
+s_000452,14278,campinas,SP
+s_000453,47762,fortaleza,CE
+s_000454,69510,campinas,SP
+s_000455,40595,belo horizonte,MG
+s_000456,91927,recife,PE
+s_000457,96662,niteroi,RJ
+s_000458,65723,brasilia,DF
+s_000459,81376,curitiba,PR
+s_000460,94886,fortaleza,CE
+s_000461,44816,porto alegre,RS
+s_000462,19359,porto alegre,RS
+s_000463,31747,rio de janeiro,RJ
+s_000464,87993,campinas,SP
+s_000465,47828,niteroi,RJ
+s_000466,26299,vitoria,ES
+s_000467,49857,vitoria,ES
+s_000468,45683,belem,PA
+s_000469,80776,sao bernardo do campo,SP
+s_000470,67377,santos,SP
+s_000471,88385,belo horizonte,MG
+s_000472,66626,rio de janeiro,RJ
+s_000473,89129,florianopolis,SC
+s_000474,13390,recife,PE
+s_000475,40005,belo horizonte,MG
+s_000476,86955,niteroi,RJ
+s_000477,98117,sao paulo,SP
+s_000478,85529,recife,PE
+s_000479,32962,rio de janeiro,RJ
+s_000480,78021,santos,SP
+s_000481,46458,vitoria,ES
+s_000482,86720,salvador,BA
+s_000483,93202,manaus,AM
+s_000484,21959,santos,SP
+s_000485,55607,santos,SP
+s_000486,53687,manaus,AM
+s_000487,97835,florianopolis,SC
+s_000488,31079,curitiba,PR
+s_000489,63955,florianopolis,SC
+s_000490,47777,santos,SP
+s_000491,82102,belem,PA
+s_000492,69614,rio de janeiro,RJ
+s_000493,51224,belo horizonte,MG
+s_000494,52372,recife,PE
+s_000495,62976,curitiba,PR
+s_000496,10150,sao bernardo do campo,SP
+s_000497,70552,guarulhos,SP
+s_000498,17104,manaus,AM
+s_000499,77952,brasilia,DF
+s_000500,91609,goiania,GO
+s_000501,91973,santos,SP
+s_000502,16764,vitoria,ES
+s_000503,45003,brasilia,DF
+s_000504,27172,guarulhos,SP
+s_000505,67424,campinas,SP
+s_000506,25915,santos,SP
+s_000507,92578,sao paulo,SP
+s_000508,41365,ribeirao preto,SP
+s_000509,50730,salvador,BA
+s_000510,11792,guarulhos,SP
+s_000511,63476,guarulhos,SP
+s_000512,39451,belo horizonte,MG
+s_000513,70482,curitiba,PR
+s_000514,94896,curitiba,PR
+s_000515,75323,porto alegre,RS
+s_000516,76698,campinas,SP
+s_000517,64459,recife,PE
+s_000518,71894,santos,SP
+s_000519,69871,fortaleza,CE
+s_000520,28958,guarulhos,SP
+s_000521,34983,belem,PA
+s_000522,76616,ribeirao preto,SP
+s_000523,19150,porto alegre,RS
+s_000524,64387,recife,PE
+s_000525,76550,florianopolis,SC
+s_000526,10336,recife,PE
+s_000527,49132,campinas,SP
+s_000528,86011,niteroi,RJ
+s_000529,29476,santos,SP
+s_000530,80592,vitoria,ES
+s_000531,55236,santos,SP
+s_000532,82340,florianopolis,SC
+s_000533,59441,guarulhos,SP
+s_000534,52176,vitoria,ES
+s_000535,41300,brasilia,DF
+s_000536,60196,niteroi,RJ
+s_000537,63841,fortaleza,CE
+s_000538,51704,rio de janeiro,RJ
+s_000539,59968,santos,SP
+s_000540,96991,belem,PA
+s_000541,74923,porto alegre,RS
+s_000542,26547,rio de janeiro,RJ
+s_000543,87356,sao bernardo do campo,SP
+s_000544,23154,florianopolis,SC
+s_000545,23069,vitoria,ES
+s_000546,69890,sao bernardo do campo,SP
+s_000547,28894,sao paulo,SP
+s_000548,95823,manaus,AM
+s_000549,19807,porto alegre,RS
+s_000550,44737,santos,SP
+s_000551,91691,florianopolis,SC
+s_000552,95175,belem,PA
+s_000553,53065,belo horizonte,MG
+s_000554,59808,guarulhos,SP
+s_000555,92155,florianopolis,SC
+s_000556,80912,santos,SP
+s_000557,90931,rio de janeiro,RJ
+s_000558,40771,belo horizonte,MG
+s_000559,39817,campinas,SP
+s_000560,66881,belo horizonte,MG
+s_000561,93066,curitiba,PR
+s_000562,68153,curitiba,PR
+s_000563,49251,salvador,BA
+s_000564,16028,sao paulo,SP
+s_000565,17355,florianopolis,SC
+s_000566,56984,campinas,SP
+s_000567,66450,goiania,GO
+s_000568,42007,porto alegre,RS
+s_000569,64008,sao bernardo do campo,SP
+s_000570,99364,niteroi,RJ
+s_000571,32280,salvador,BA
+s_000572,20350,salvador,BA
+s_000573,60140,ribeirao preto,SP
+s_000574,99539,ribeirao preto,SP
+s_000575,75230,fortaleza,CE
+s_000576,28758,niteroi,RJ
+s_000577,70443,fortaleza,CE
+s_000578,70236,recife,PE
+s_000579,97404,recife,PE
+s_000580,70981,sao paulo,SP
+s_000581,98815,campinas,SP
+s_000582,30706,guarulhos,SP
+s_000583,67898,belo horizonte,MG
+s_000584,87014,goiania,GO
+s_000585,93746,campinas,SP
+s_000586,42780,manaus,AM
+s_000587,49599,vitoria,ES
+s_000588,60422,brasilia,DF
+s_000589,23979,santos,SP
+s_000590,59986,fortaleza,CE
+s_000591,57049,niteroi,RJ
+s_000592,48780,niteroi,RJ
+s_000593,12875,campinas,SP
+s_000594,45976,belem,PA
+s_000595,84177,sao paulo,SP
+s_000596,89482,rio de janeiro,RJ
+s_000597,47512,santos,SP
+s_000598,89569,fortaleza,CE
+s_000599,38705,goiania,GO
+s_000600,91381,brasilia,DF
+s_000601,98835,recife,PE
+s_000602,92345,porto alegre,RS
+s_000603,92242,curitiba,PR
+s_000604,50492,rio de janeiro,RJ
+s_000605,14373,vitoria,ES
+s_000606,57823,niteroi,RJ
+s_000607,21813,porto alegre,RS
+s_000608,52823,campinas,SP
+s_000609,33021,manaus,AM
+s_000610,27322,brasilia,DF
+s_000611,57953,guarulhos,SP
+s_000612,75771,sao bernardo do campo,SP
+s_000613,31567,recife,PE
+s_000614,73156,recife,PE
+s_000615,54396,campinas,SP
+s_000616,71385,curitiba,PR
+s_000617,28449,belo horizonte,MG
+s_000618,98647,fortaleza,CE
+s_000619,83048,belem,PA
+s_000620,21836,goiania,GO
+s_000621,11824,belem,PA
+s_000622,80329,recife,PE
+s_000623,69609,curitiba,PR
+s_000624,98188,goiania,GO
+s_000625,86619,recife,PE
+s_000626,93695,belem,PA
+s_000627,24201,goiania,GO
+s_000628,71797,fortaleza,CE
+s_000629,91205,sao paulo,SP
+s_000630,52992,guarulhos,SP
+s_000631,39015,ribeirao preto,SP
+s_000632,93283,belo horizonte,MG
+s_000633,49608,vitoria,ES
+s_000634,25292,manaus,AM
+s_000635,15943,porto alegre,RS
+s_000636,49893,rio de janeiro,RJ
+s_000637,25220,santos,SP
+s_000638,40775,curitiba,PR
+s_000639,27781,guarulhos,SP
+s_000640,69459,belem,PA
+s_000641,97881,goiania,GO
+s_000642,64935,guarulhos,SP
+s_000643,30253,niteroi,RJ
+s_000644,95841,manaus,AM
+s_000645,74139,curitiba,PR
+s_000646,63492,ribeirao preto,SP
+s_000647,14288,recife,PE
+s_000648,38477,goiania,GO
+s_000649,68287,vitoria,ES
+s_000650,57537,fortaleza,CE
+s_000651,99873,curitiba,PR
+s_000652,81364,goiania,GO
+s_000653,17936,goiania,GO
+s_000654,46160,belem,PA
+s_000655,26011,brasilia,DF
+s_000656,22015,vitoria,ES
+s_000657,94109,brasilia,DF
+s_000658,12799,ribeirao preto,SP
+s_000659,53713,rio de janeiro,RJ
+s_000660,26505,fortaleza,CE
+s_000661,36896,niteroi,RJ
+s_000662,82641,belo horizonte,MG
+s_000663,86858,brasilia,DF
+s_000664,40539,brasilia,DF
+s_000665,29340,florianopolis,SC
+s_000666,10371,ribeirao preto,SP
+s_000667,28964,recife,PE
+s_000668,80807,porto alegre,RS
+s_000669,32871,recife,PE
+s_000670,96646,curitiba,PR
+s_000671,27275,sao paulo,SP
+s_000672,56955,sao paulo,SP
+s_000673,87182,fortaleza,CE
+s_000674,12068,florianopolis,SC
+s_000675,44782,salvador,BA
+s_000676,26614,rio de janeiro,RJ
+s_000677,78955,manaus,AM
+s_000678,18330,curitiba,PR
+s_000679,68756,santos,SP
+s_000680,77271,goiania,GO
+s_000681,24293,niteroi,RJ
+s_000682,76039,vitoria,ES
+s_000683,90623,fortaleza,CE
+s_000684,96363,rio de janeiro,RJ
+s_000685,49535,sao bernardo do campo,SP
+s_000686,94323,vitoria,ES
+s_000687,17972,sao paulo,SP
+s_000688,62640,santos,SP
+s_000689,99928,manaus,AM
+s_000690,74260,curitiba,PR
+s_000691,19632,vitoria,ES
+s_000692,52219,belo horizonte,MG
+s_000693,29442,ribeirao preto,SP
+s_000694,26540,belo horizonte,MG
+s_000695,91830,recife,PE
+s_000696,81874,niteroi,RJ
+s_000697,59925,florianopolis,SC
+s_000698,79541,ribeirao preto,SP
+s_000699,69469,campinas,SP
+s_000700,89354,sao bernardo do campo,SP
+s_000701,22999,manaus,AM
+s_000702,95814,curitiba,PR
+s_000703,38183,guarulhos,SP
+s_000704,69186,manaus,AM
+s_000705,64239,fortaleza,CE
+s_000706,69441,florianopolis,SC
+s_000707,64524,belem,PA
+s_000708,50966,curitiba,PR
+s_000709,50963,manaus,AM
+s_000710,59060,recife,PE
+s_000711,72163,porto alegre,RS
+s_000712,21957,belo horizonte,MG
+s_000713,22219,belo horizonte,MG
+s_000714,22656,manaus,AM
+s_000715,27054,goiania,GO
+s_000716,17861,guarulhos,SP
+s_000717,83608,niteroi,RJ
+s_000718,53207,guarulhos,SP
+s_000719,63845,curitiba,PR
+s_000720,97207,goiania,GO
+s_000721,16743,manaus,AM
+s_000722,88696,campinas,SP
+s_000723,56090,campinas,SP
+s_000724,85748,curitiba,PR
+s_000725,37884,sao bernardo do campo,SP
+s_000726,96079,porto alegre,RS
+s_000727,39392,santos,SP
+s_000728,55890,curitiba,PR
+s_000729,58176,guarulhos,SP
+s_000730,46512,curitiba,PR
+s_000731,39643,niteroi,RJ
+s_000732,83526,manaus,AM
+s_000733,90422,ribeirao preto,SP
+s_000734,13441,guarulhos,SP
+s_000735,96223,ribeirao preto,SP
+s_000736,13794,recife,PE
+s_000737,45818,salvador,BA
+s_000738,54541,campinas,SP
+s_000739,10800,goiania,GO
+s_000740,28776,salvador,BA
+s_000741,96159,niteroi,RJ
+s_000742,19120,belem,PA
+s_000743,92991,porto alegre,RS
+s_000744,22026,sao paulo,SP
+s_000745,38197,sao bernardo do campo,SP
+s_000746,65028,belem,PA
+s_000747,54681,vitoria,ES
+s_000748,58503,salvador,BA
+s_000749,52517,campinas,SP
+s_000750,88148,niteroi,RJ
+s_000751,16895,belo horizonte,MG
+s_000752,30632,porto alegre,RS
+s_000753,16522,ribeirao preto,SP
+s_000754,45665,belo horizonte,MG
+s_000755,96761,vitoria,ES
+s_000756,73656,manaus,AM
+s_000757,67939,ribeirao preto,SP
+s_000758,45804,manaus,AM
+s_000759,77154,brasilia,DF
+s_000760,55242,curitiba,PR
+s_000761,24534,manaus,AM
+s_000762,98895,campinas,SP
+s_000763,73783,niteroi,RJ
+s_000764,97442,sao bernardo do campo,SP
+s_000765,15952,campinas,SP
+s_000766,61807,fortaleza,CE
+s_000767,17180,ribeirao preto,SP
+s_000768,36794,sao paulo,SP
+s_000769,37686,campinas,SP
+s_000770,43491,porto alegre,RS
+s_000771,53007,campinas,SP
+s_000772,11013,curitiba,PR
+s_000773,66446,santos,SP
+s_000774,26932,salvador,BA
+s_000775,79806,belem,PA
+s_000776,75570,fortaleza,CE
+s_000777,97562,guarulhos,SP
+s_000778,19447,goiania,GO
+s_000779,15544,belem,PA
+s_000780,12456,manaus,AM
+s_000781,20205,vitoria,ES
+s_000782,85465,florianopolis,SC
+s_000783,85156,manaus,AM
+s_000784,93904,belem,PA
+s_000785,47947,manaus,AM
+s_000786,63088,curitiba,PR
+s_000787,52568,sao paulo,SP
+s_000788,91018,salvador,BA
+s_000789,57428,vitoria,ES
+s_000790,67240,belo horizonte,MG
+s_000791,41891,curitiba,PR
+s_000792,87184,manaus,AM
+s_000793,78676,belem,PA
+s_000794,61873,belo horizonte,MG
+s_000795,54500,campinas,SP
+s_000796,53655,fortaleza,CE
+s_000797,20011,salvador,BA
+s_000798,92998,sao bernardo do campo,SP
+s_000799,79547,curitiba,PR
+s_000800,35415,sao bernardo do campo,SP
+s_000801,56019,goiania,GO
+s_000802,40968,porto alegre,RS
+s_000803,29194,curitiba,PR
+s_000804,35856,recife,PE
+s_000805,88957,salvador,BA
+s_000806,95918,porto alegre,RS
+s_000807,33218,belo horizonte,MG
+s_000808,70811,santos,SP
+s_000809,85952,niteroi,RJ
+s_000810,99277,vitoria,ES
+s_000811,94278,niteroi,RJ
+s_000812,52363,ribeirao preto,SP
+s_000813,29786,florianopolis,SC
+s_000814,18950,vitoria,ES
+s_000815,67961,santos,SP
+s_000816,46002,campinas,SP
+s_000817,17362,niteroi,RJ
+s_000818,76497,goiania,GO
+s_000819,50685,belo horizonte,MG
+s_000820,69233,vitoria,ES
+s_000821,17456,rio de janeiro,RJ
+s_000822,47627,goiania,GO
+s_000823,94497,belo horizonte,MG
+s_000824,90610,belo horizonte,MG
+s_000825,76462,ribeirao preto,SP
+s_000826,70648,belem,PA
+s_000827,82655,niteroi,RJ
+s_000828,68947,rio de janeiro,RJ
+s_000829,95437,niteroi,RJ
+s_000830,52143,brasilia,DF
+s_000831,72341,ribeirao preto,SP
+s_000832,29773,sao bernardo do campo,SP
+s_000833,69050,rio de janeiro,RJ
+s_000834,55015,curitiba,PR
+s_000835,76132,belo horizonte,MG
+s_000836,15130,salvador,BA
+s_000837,67377,fortaleza,CE
+s_000838,78690,vitoria,ES
+s_000839,89928,sao bernardo do campo,SP
+s_000840,57696,salvador,BA
+s_000841,47079,goiania,GO
+s_000842,63578,belem,PA
+s_000843,98984,florianopolis,SC
+s_000844,16863,ribeirao preto,SP
+s_000845,18639,florianopolis,SC
+s_000846,22387,florianopolis,SC
+s_000847,98916,guarulhos,SP
+s_000848,47243,belem,PA
+s_000849,96057,recife,PE
+s_000850,29709,ribeirao preto,SP
+s_000851,20682,florianopolis,SC
+s_000852,96980,niteroi,RJ
+s_000853,55851,porto alegre,RS
+s_000854,95990,campinas,SP
+s_000855,26901,belem,PA
+s_000856,21104,ribeirao preto,SP
+s_000857,83259,campinas,SP
+s_000858,94343,belem,PA
+s_000859,26750,florianopolis,SC
+s_000860,22249,sao bernardo do campo,SP
+s_000861,76648,manaus,AM
+s_000862,12389,goiania,GO
+s_000863,50483,goiania,GO
+s_000864,38074,salvador,BA
+s_000865,73736,florianopolis,SC
+s_000866,39693,brasilia,DF
+s_000867,30308,porto alegre,RS
+s_000868,48770,belo horizonte,MG
+s_000869,76543,curitiba,PR
+s_000870,79013,guarulhos,SP
+s_000871,96760,rio de janeiro,RJ
+s_000872,91006,florianopolis,SC
+s_000873,88282,porto alegre,RS
+s_000874,30218,belem,PA
+s_000875,33703,salvador,BA
+s_000876,31697,ribeirao preto,SP
+s_000877,15726,vitoria,ES
+s_000878,57749,manaus,AM
+s_000879,68222,fortaleza,CE
+s_000880,47346,ribeirao preto,SP
+s_000881,40671,vitoria,ES
+s_000882,41348,guarulhos,SP
+s_000883,71474,campinas,SP
+s_000884,58213,brasilia,DF
+s_000885,67749,niteroi,RJ
+s_000886,46932,vitoria,ES
+s_000887,75916,belem,PA
+s_000888,64874,sao bernardo do campo,SP
+s_000889,36174,salvador,BA
+s_000890,28140,ribeirao preto,SP
+s_000891,16839,recife,PE
+s_000892,58655,santos,SP
+s_000893,23446,guarulhos,SP
+s_000894,26341,sao bernardo do campo,SP
+s_000895,20993,campinas,SP
+s_000896,45755,salvador,BA
+s_000897,77286,vitoria,ES
+s_000898,67340,porto alegre,RS
+s_000899,39102,belo horizonte,MG
+s_000900,55820,vitoria,ES
+s_000901,64381,sao paulo,SP
+s_000902,61964,rio de janeiro,RJ
+s_000903,59015,sao bernardo do campo,SP
+s_000904,60615,fortaleza,CE
+s_000905,59140,belo horizonte,MG
+s_000906,13694,fortaleza,CE
+s_000907,22987,florianopolis,SC
+s_000908,29142,florianopolis,SC
+s_000909,15020,porto alegre,RS
+s_000910,71925,campinas,SP
+s_000911,71487,porto alegre,RS
+s_000912,90654,vitoria,ES
+s_000913,20384,sao paulo,SP
+s_000914,43544,sao paulo,SP
+s_000915,29597,brasilia,DF
+s_000916,89807,guarulhos,SP
+s_000917,65476,sao bernardo do campo,SP
+s_000918,47762,curitiba,PR
+s_000919,49472,fortaleza,CE
+s_000920,16258,curitiba,PR
+s_000921,65027,fortaleza,CE
+s_000922,69914,ribeirao preto,SP
+s_000923,24530,belo horizonte,MG
+s_000924,88215,santos,SP
+s_000925,12154,guarulhos,SP
+s_000926,85372,sao bernardo do campo,SP
+s_000927,28818,fortaleza,CE
+s_000928,66261,campinas,SP
+s_000929,90584,sao paulo,SP
+s_000930,41531,goiania,GO
+s_000931,64600,niteroi,RJ
+s_000932,97080,salvador,BA
+s_000933,78614,belo horizonte,MG
+s_000934,18870,goiania,GO
+s_000935,81313,sao bernardo do campo,SP
+s_000936,76535,sao bernardo do campo,SP
+s_000937,12665,guarulhos,SP
+s_000938,71621,belem,PA
+s_000939,93318,rio de janeiro,RJ
+s_000940,58929,belem,PA
+s_000941,12128,recife,PE
+s_000942,18855,goiania,GO
+s_000943,41604,goiania,GO
+s_000944,86271,curitiba,PR
+s_000945,27486,florianopolis,SC
+s_000946,56176,rio de janeiro,RJ
+s_000947,54374,guarulhos,SP
+s_000948,99742,salvador,BA
+s_000949,72722,vitoria,ES
+s_000950,27675,salvador,BA
+s_000951,69988,belo horizonte,MG
+s_000952,48462,rio de janeiro,RJ
+s_000953,15741,brasilia,DF
+s_000954,15492,brasilia,DF
+s_000955,50642,florianopolis,SC
+s_000956,62196,sao bernardo do campo,SP
+s_000957,72049,guarulhos,SP
+s_000958,14799,recife,PE
+s_000959,47501,brasilia,DF
+s_000960,16265,goiania,GO
+s_000961,45811,florianopolis,SC
+s_000962,58237,curitiba,PR
+s_000963,62431,manaus,AM
+s_000964,60678,vitoria,ES
+s_000965,34486,florianopolis,SC
+s_000966,75211,santos,SP
+s_000967,78062,goiania,GO
+s_000968,20828,recife,PE
+s_000969,20345,manaus,AM
+s_000970,88964,manaus,AM
+s_000971,81496,salvador,BA
+s_000972,52101,campinas,SP
+s_000973,20494,curitiba,PR
+s_000974,96628,florianopolis,SC
+s_000975,50173,campinas,SP
+s_000976,88986,vitoria,ES
+s_000977,31842,manaus,AM
+s_000978,56077,vitoria,ES
+s_000979,15551,vitoria,ES
+s_000980,90589,goiania,GO
+s_000981,45986,manaus,AM
+s_000982,19835,rio de janeiro,RJ
+s_000983,57619,belem,PA
+s_000984,99051,sao bernardo do campo,SP
+s_000985,14081,salvador,BA
+s_000986,89635,porto alegre,RS
+s_000987,14561,vitoria,ES
+s_000988,18812,porto alegre,RS
+s_000989,94562,fortaleza,CE
+s_000990,57467,goiania,GO
+s_000991,84349,belem,PA
+s_000992,89310,rio de janeiro,RJ
+s_000993,99006,porto alegre,RS
+s_000994,58623,vitoria,ES
+s_000995,68188,goiania,GO
+s_000996,85225,belo horizonte,MG
+s_000997,79397,porto alegre,RS
+s_000998,62171,goiania,GO
+s_000999,95139,florianopolis,SC
+s_001000,42717,recife,PE
+s_001001,13396,curitiba,PR
+s_001002,75410,salvador,BA
+s_001003,60723,sao bernardo do campo,SP
+s_001004,25435,guarulhos,SP
+s_001005,44116,recife,PE
+s_001006,38124,vitoria,ES
+s_001007,47431,ribeirao preto,SP
+s_001008,36237,santos,SP
+s_001009,27790,curitiba,PR
+s_001010,69250,belo horizonte,MG
+s_001011,68341,salvador,BA
+s_001012,99381,belo horizonte,MG
+s_001013,97535,florianopolis,SC
+s_001014,18511,goiania,GO
+s_001015,81063,guarulhos,SP
+s_001016,49315,campinas,SP
+s_001017,93584,salvador,BA
+s_001018,57381,salvador,BA
+s_001019,39391,sao bernardo do campo,SP
+s_001020,36342,curitiba,PR
+s_001021,41029,porto alegre,RS
+s_001022,13445,santos,SP
+s_001023,82616,goiania,GO
+s_001024,58353,niteroi,RJ
+s_001025,82305,vitoria,ES
+s_001026,90209,porto alegre,RS
+s_001027,18617,belo horizonte,MG
+s_001028,62187,campinas,SP
+s_001029,78903,santos,SP
+s_001030,63665,manaus,AM
+s_001031,19666,niteroi,RJ
+s_001032,51553,porto alegre,RS
+s_001033,68979,belo horizonte,MG
+s_001034,99143,vitoria,ES
+s_001035,55156,sao bernardo do campo,SP
+s_001036,82260,porto alegre,RS
+s_001037,33850,niteroi,RJ
+s_001038,66704,porto alegre,RS
+s_001039,17263,sao bernardo do campo,SP
+s_001040,77908,curitiba,PR
+s_001041,49862,porto alegre,RS
+s_001042,31229,salvador,BA
+s_001043,39552,florianopolis,SC
+s_001044,78012,goiania,GO
+s_001045,20336,campinas,SP
+s_001046,35729,recife,PE
+s_001047,45972,guarulhos,SP
+s_001048,91922,porto alegre,RS
+s_001049,90534,campinas,SP
+s_001050,22245,guarulhos,SP
+s_001051,94015,sao bernardo do campo,SP
+s_001052,87569,salvador,BA
+s_001053,30210,niteroi,RJ
+s_001054,96341,salvador,BA
+s_001055,89316,ribeirao preto,SP
+s_001056,83874,florianopolis,SC
+s_001057,13718,rio de janeiro,RJ
+s_001058,15958,belo horizonte,MG
+s_001059,44688,niteroi,RJ
+s_001060,84991,brasilia,DF
+s_001061,91016,manaus,AM
+s_001062,75278,sao paulo,SP
+s_001063,47967,guarulhos,SP
+s_001064,73300,campinas,SP
+s_001065,99783,fortaleza,CE
+s_001066,48985,belem,PA
+s_001067,19564,vitoria,ES
+s_001068,30719,rio de janeiro,RJ
+s_001069,64476,vitoria,ES
+s_001070,70875,santos,SP
+s_001071,54589,brasilia,DF
+s_001072,28830,ribeirao preto,SP
+s_001073,51853,florianopolis,SC
+s_001074,62260,goiania,GO
+s_001075,58567,porto alegre,RS
+s_001076,83616,sao bernardo do campo,SP
+s_001077,51827,curitiba,PR
+s_001078,71141,fortaleza,CE
+s_001079,45058,curitiba,PR
+s_001080,42495,vitoria,ES
+s_001081,22689,porto alegre,RS
+s_001082,48038,rio de janeiro,RJ
+s_001083,90658,belem,PA
+s_001084,42541,manaus,AM
+s_001085,52917,salvador,BA
+s_001086,50988,niteroi,RJ
+s_001087,30885,brasilia,DF
+s_001088,77466,santos,SP
+s_001089,75373,vitoria,ES
+s_001090,75191,campinas,SP
+s_001091,21802,sao paulo,SP
+s_001092,76249,belem,PA
+s_001093,41552,vitoria,ES
+s_001094,86460,brasilia,DF
+s_001095,16377,goiania,GO
+s_001096,46877,rio de janeiro,RJ
+s_001097,88317,santos,SP
+s_001098,47453,santos,SP
+s_001099,11071,guarulhos,SP
+s_001100,66482,curitiba,PR
+s_001101,44664,porto alegre,RS
+s_001102,62855,goiania,GO
+s_001103,15930,goiania,GO
+s_001104,16705,belem,PA
+s_001105,83638,niteroi,RJ
+s_001106,57516,brasilia,DF
+s_001107,47827,guarulhos,SP
+s_001108,60639,belo horizonte,MG
+s_001109,69028,sao bernardo do campo,SP
+s_001110,46663,guarulhos,SP
+s_001111,99181,ribeirao preto,SP
+s_001112,25572,ribeirao preto,SP
+s_001113,22672,porto alegre,RS
+s_001114,58915,belem,PA
+s_001115,83116,florianopolis,SC
+s_001116,28909,goiania,GO
+s_001117,88966,brasilia,DF
+s_001118,62610,sao bernardo do campo,SP
+s_001119,15276,sao bernardo do campo,SP
+s_001120,15100,rio de janeiro,RJ
+s_001121,53652,porto alegre,RS
+s_001122,78069,santos,SP
+s_001123,29521,vitoria,ES
+s_001124,77568,ribeirao preto,SP
+s_001125,52987,porto alegre,RS
+s_001126,51750,ribeirao preto,SP
+s_001127,61505,salvador,BA
+s_001128,49221,ribeirao preto,SP
+s_001129,54089,niteroi,RJ
+s_001130,76809,sao bernardo do campo,SP
+s_001131,74205,guarulhos,SP
+s_001132,49294,niteroi,RJ
+s_001133,12180,santos,SP
+s_001134,53416,goiania,GO
+s_001135,64596,curitiba,PR
+s_001136,50327,niteroi,RJ
+s_001137,88238,sao paulo,SP
+s_001138,44803,santos,SP
+s_001139,85711,niteroi,RJ
+s_001140,16731,fortaleza,CE
+s_001141,72973,niteroi,RJ
+s_001142,78712,salvador,BA
+s_001143,59832,ribeirao preto,SP
+s_001144,99224,porto alegre,RS
+s_001145,14138,fortaleza,CE
+s_001146,24404,niteroi,RJ
+s_001147,12482,brasilia,DF
+s_001148,51116,vitoria,ES
+s_001149,29848,manaus,AM
+s_001150,36724,manaus,AM
+s_001151,75774,manaus,AM
+s_001152,71814,ribeirao preto,SP
+s_001153,28098,rio de janeiro,RJ
+s_001154,37176,sao bernardo do campo,SP
+s_001155,52604,guarulhos,SP
+s_001156,78875,santos,SP
+s_001157,51124,belem,PA
+s_001158,70249,salvador,BA
+s_001159,54869,guarulhos,SP
+s_001160,56437,guarulhos,SP
+s_001161,89963,recife,PE
+s_001162,35200,santos,SP
+s_001163,46569,fortaleza,CE
+s_001164,49124,guarulhos,SP
+s_001165,49008,fortaleza,CE
+s_001166,37168,campinas,SP
+s_001167,51555,santos,SP
+s_001168,55718,santos,SP
+s_001169,45842,guarulhos,SP
+s_001170,25974,campinas,SP
+s_001171,98686,niteroi,RJ
+s_001172,59767,guarulhos,SP
+s_001173,55237,belem,PA
+s_001174,48070,porto alegre,RS
+s_001175,47700,rio de janeiro,RJ
+s_001176,55398,belo horizonte,MG
+s_001177,95979,vitoria,ES
+s_001178,72793,recife,PE
+s_001179,36485,brasilia,DF
+s_001180,45537,guarulhos,SP
+s_001181,45601,guarulhos,SP
+s_001182,24316,porto alegre,RS
+s_001183,86917,ribeirao preto,SP
+s_001184,41779,fortaleza,CE
+s_001185,97796,rio de janeiro,RJ
+s_001186,39579,sao bernardo do campo,SP
+s_001187,16880,fortaleza,CE
+s_001188,64172,curitiba,PR
+s_001189,71918,florianopolis,SC
+s_001190,99285,curitiba,PR
+s_001191,10679,porto alegre,RS
+s_001192,30701,guarulhos,SP
+s_001193,95575,manaus,AM
+s_001194,72580,santos,SP
+s_001195,47649,brasilia,DF
+s_001196,47409,florianopolis,SC
+s_001197,21725,rio de janeiro,RJ
+s_001198,40437,niteroi,RJ
+s_001199,14888,guarulhos,SP
+s_001200,64773,salvador,BA
+s_001201,14763,salvador,BA
+s_001202,74930,belem,PA
+s_001203,47941,salvador,BA
+s_001204,11214,rio de janeiro,RJ
+s_001205,84443,campinas,SP
+s_001206,24064,ribeirao preto,SP
+s_001207,47298,florianopolis,SC
+s_001208,94058,vitoria,ES
+s_001209,78723,guarulhos,SP
+s_001210,27589,santos,SP
+s_001211,71344,sao bernardo do campo,SP
+s_001212,35272,recife,PE
+s_001213,53343,curitiba,PR
+s_001214,70150,salvador,BA
+s_001215,34405,recife,PE
+s_001216,54185,sao paulo,SP
+s_001217,84420,campinas,SP
+s_001218,33002,brasilia,DF
+s_001219,93719,ribeirao preto,SP
+s_001220,66059,belem,PA
+s_001221,52982,sao bernardo do campo,SP
+s_001222,62538,belo horizonte,MG
+s_001223,34219,curitiba,PR
+s_001224,72580,porto alegre,RS
+s_001225,42512,florianopolis,SC
+s_001226,44181,sao paulo,SP
+s_001227,40870,belem,PA
+s_001228,44995,vitoria,ES
+s_001229,49576,florianopolis,SC
+s_001230,85088,niteroi,RJ
+s_001231,44282,sao paulo,SP
+s_001232,40972,goiania,GO
+s_001233,97528,rio de janeiro,RJ
+s_001234,71000,curitiba,PR
+s_001235,30934,campinas,SP
+s_001236,99925,belem,PA
+s_001237,50760,sao bernardo do campo,SP
+s_001238,93717,curitiba,PR
+s_001239,58174,campinas,SP
+s_001240,38947,ribeirao preto,SP
+s_001241,27507,fortaleza,CE
+s_001242,30078,santos,SP
+s_001243,89395,vitoria,ES
+s_001244,64505,goiania,GO
+s_001245,71712,guarulhos,SP
+s_001246,97044,guarulhos,SP
+s_001247,42435,brasilia,DF
+s_001248,20730,ribeirao preto,SP
+s_001249,68556,sao bernardo do campo,SP
+s_001250,57419,sao bernardo do campo,SP
+s_001251,83946,belo horizonte,MG
+s_001252,18094,curitiba,PR
+s_001253,76255,guarulhos,SP
+s_001254,85065,brasilia,DF
+s_001255,29641,guarulhos,SP
+s_001256,53007,salvador,BA
+s_001257,67912,sao bernardo do campo,SP
+s_001258,99167,curitiba,PR
+s_001259,86434,brasilia,DF
+s_001260,21919,santos,SP
+s_001261,68390,sao bernardo do campo,SP
+s_001262,69432,rio de janeiro,RJ
+s_001263,77272,porto alegre,RS
+s_001264,69873,manaus,AM
+s_001265,17567,niteroi,RJ
+s_001266,70604,guarulhos,SP
+s_001267,12853,campinas,SP
+s_001268,43352,belem,PA
+s_001269,38560,sao paulo,SP
+s_001270,19572,niteroi,RJ
+s_001271,65534,rio de janeiro,RJ
+s_001272,18357,goiania,GO
+s_001273,17897,guarulhos,SP
+s_001274,71875,belo horizonte,MG
+s_001275,47629,rio de janeiro,RJ
+s_001276,33590,manaus,AM
+s_001277,94085,porto alegre,RS
+s_001278,59081,manaus,AM
+s_001279,68790,belem,PA
+s_001280,59236,belem,PA
+s_001281,99486,belo horizonte,MG
+s_001282,27431,guarulhos,SP
+s_001283,25549,goiania,GO
+s_001284,80419,salvador,BA
+s_001285,79316,belem,PA
+s_001286,39188,porto alegre,RS
+s_001287,12979,sao paulo,SP
+s_001288,70686,campinas,SP
+s_001289,65591,guarulhos,SP
+s_001290,59712,guarulhos,SP
+s_001291,42441,fortaleza,CE
+s_001292,55371,vitoria,ES
+s_001293,46129,porto alegre,RS
+s_001294,24790,brasilia,DF
+s_001295,96533,rio de janeiro,RJ
+s_001296,90599,manaus,AM
+s_001297,41544,sao paulo,SP
+s_001298,18819,brasilia,DF
+s_001299,87849,curitiba,PR
+s_001300,68515,rio de janeiro,RJ
+s_001301,98083,ribeirao preto,SP
+s_001302,42077,rio de janeiro,RJ
+s_001303,62725,rio de janeiro,RJ
+s_001304,40715,vitoria,ES
+s_001305,38477,guarulhos,SP
+s_001306,28367,rio de janeiro,RJ
+s_001307,47914,sao bernardo do campo,SP
+s_001308,85511,fortaleza,CE
+s_001309,85690,florianopolis,SC
+s_001310,98150,ribeirao preto,SP
+s_001311,41051,florianopolis,SC
+s_001312,28777,campinas,SP
+s_001313,38972,sao bernardo do campo,SP
+s_001314,49387,manaus,AM
+s_001315,17989,recife,PE
+s_001316,87550,guarulhos,SP
+s_001317,92050,salvador,BA
+s_001318,82856,manaus,AM
+s_001319,16145,santos,SP
+s_001320,94320,goiania,GO
+s_001321,78742,belem,PA
+s_001322,64568,florianopolis,SC
+s_001323,29558,manaus,AM
+s_001324,59343,campinas,SP
+s_001325,80507,salvador,BA
+s_001326,41584,santos,SP
+s_001327,49418,fortaleza,CE
+s_001328,70689,porto alegre,RS
+s_001329,83713,rio de janeiro,RJ
+s_001330,64592,manaus,AM
+s_001331,79467,guarulhos,SP
+s_001332,60910,porto alegre,RS
+s_001333,43422,fortaleza,CE
+s_001334,53288,brasilia,DF
+s_001335,68954,belo horizonte,MG
+s_001336,22119,goiania,GO
+s_001337,34966,guarulhos,SP
+s_001338,45187,rio de janeiro,RJ
+s_001339,98299,belem,PA
+s_001340,89026,ribeirao preto,SP
+s_001341,19539,rio de janeiro,RJ
+s_001342,87015,brasilia,DF
+s_001343,38444,guarulhos,SP
+s_001344,37379,santos,SP
+s_001345,49739,florianopolis,SC
+s_001346,37762,sao paulo,SP
+s_001347,25376,brasilia,DF
+s_001348,41797,santos,SP
+s_001349,36805,ribeirao preto,SP
+s_001350,41369,belem,PA
+s_001351,52154,guarulhos,SP
+s_001352,59894,campinas,SP
+s_001353,79946,vitoria,ES
+s_001354,50425,goiania,GO
+s_001355,57139,recife,PE
+s_001356,75179,sao bernardo do campo,SP
+s_001357,22924,vitoria,ES
+s_001358,51973,santos,SP
+s_001359,58589,brasilia,DF
+s_001360,64254,florianopolis,SC
+s_001361,83731,rio de janeiro,RJ
+s_001362,29126,fortaleza,CE
+s_001363,44180,sao paulo,SP
+s_001364,86550,guarulhos,SP
+s_001365,64732,niteroi,RJ
+s_001366,29976,campinas,SP
+s_001367,53236,brasilia,DF
+s_001368,59786,fortaleza,CE
+s_001369,42208,niteroi,RJ
+s_001370,82173,santos,SP
+s_001371,43728,florianopolis,SC
+s_001372,94108,santos,SP
+s_001373,70401,santos,SP
+s_001374,56160,salvador,BA
+s_001375,28344,salvador,BA
+s_001376,74004,guarulhos,SP
+s_001377,81058,salvador,BA
+s_001378,78674,rio de janeiro,RJ
+s_001379,19742,rio de janeiro,RJ
+s_001380,10836,rio de janeiro,RJ
+s_001381,28021,manaus,AM
+s_001382,18908,fortaleza,CE
+s_001383,11198,porto alegre,RS
+s_001384,76287,brasilia,DF
+s_001385,58916,vitoria,ES
+s_001386,90980,rio de janeiro,RJ
+s_001387,73334,ribeirao preto,SP
+s_001388,12061,santos,SP
+s_001389,79758,sao paulo,SP
+s_001390,63914,guarulhos,SP
+s_001391,12192,sao paulo,SP
+s_001392,46010,sao bernardo do campo,SP
+s_001393,47576,guarulhos,SP
+s_001394,75826,sao paulo,SP
+s_001395,33496,manaus,AM
+s_001396,22624,curitiba,PR
+s_001397,29516,sao bernardo do campo,SP
+s_001398,35156,fortaleza,CE
+s_001399,79003,ribeirao preto,SP
+s_001400,56457,recife,PE
+s_001401,62022,recife,PE
+s_001402,58896,belo horizonte,MG
+s_001403,70161,belem,PA
+s_001404,41877,niteroi,RJ
+s_001405,49318,fortaleza,CE
+s_001406,95686,belo horizonte,MG
+s_001407,22255,rio de janeiro,RJ
+s_001408,59710,belem,PA
+s_001409,82443,belem,PA
+s_001410,17355,santos,SP
+s_001411,32463,sao paulo,SP
+s_001412,75517,belo horizonte,MG
+s_001413,94529,manaus,AM
+s_001414,84167,florianopolis,SC
+s_001415,79226,curitiba,PR
+s_001416,40115,rio de janeiro,RJ
+s_001417,84289,brasilia,DF
+s_001418,45532,santos,SP
+s_001419,19744,rio de janeiro,RJ
+s_001420,81176,recife,PE
+s_001421,96259,niteroi,RJ
+s_001422,33508,rio de janeiro,RJ
+s_001423,12052,florianopolis,SC
+s_001424,86943,brasilia,DF
+s_001425,62205,porto alegre,RS
+s_001426,49226,belo horizonte,MG
+s_001427,83919,salvador,BA
+s_001428,84277,fortaleza,CE
+s_001429,98740,belem,PA
+s_001430,53480,guarulhos,SP
+s_001431,28343,belem,PA
+s_001432,75639,belo horizonte,MG
+s_001433,17038,goiania,GO
+s_001434,67290,curitiba,PR
+s_001435,19963,fortaleza,CE
+s_001436,89320,florianopolis,SC
+s_001437,88067,ribeirao preto,SP
+s_001438,52778,belem,PA
+s_001439,93115,sao paulo,SP
+s_001440,69054,recife,PE
+s_001441,39902,santos,SP
+s_001442,82487,goiania,GO
+s_001443,66603,belem,PA
+s_001444,99088,salvador,BA
+s_001445,96595,niteroi,RJ
+s_001446,21232,belem,PA
+s_001447,48715,ribeirao preto,SP
+s_001448,19634,fortaleza,CE
+s_001449,45123,belo horizonte,MG
+s_001450,59807,porto alegre,RS
+s_001451,61068,porto alegre,RS
+s_001452,57277,florianopolis,SC
+s_001453,21995,curitiba,PR
+s_001454,50405,sao paulo,SP
+s_001455,57175,vitoria,ES
+s_001456,23399,recife,PE
+s_001457,21442,porto alegre,RS
+s_001458,66489,salvador,BA
+s_001459,83005,vitoria,ES
+s_001460,77166,guarulhos,SP
+s_001461,23538,manaus,AM
+s_001462,21746,sao paulo,SP
+s_001463,82642,goiania,GO
+s_001464,88240,belo horizonte,MG
+s_001465,52523,ribeirao preto,SP
+s_001466,11617,belem,PA
+s_001467,64238,campinas,SP
+s_001468,21101,belem,PA
+s_001469,41816,guarulhos,SP
+s_001470,78302,niteroi,RJ
+s_001471,99825,salvador,BA
+s_001472,32216,belem,PA
+s_001473,45247,porto alegre,RS
+s_001474,45180,campinas,SP
+s_001475,29127,santos,SP
+s_001476,31916,belo horizonte,MG
+s_001477,46170,manaus,AM
+s_001478,49289,manaus,AM
+s_001479,20082,santos,SP
+s_001480,42990,goiania,GO
+s_001481,91924,fortaleza,CE
+s_001482,87831,santos,SP
+s_001483,35630,ribeirao preto,SP
+s_001484,24021,vitoria,ES
+s_001485,49932,porto alegre,RS
+s_001486,61864,sao paulo,SP
+s_001487,91289,florianopolis,SC
+s_001488,53193,belem,PA
+s_001489,53874,vitoria,ES
+s_001490,95332,manaus,AM
+s_001491,27842,ribeirao preto,SP
+s_001492,52030,campinas,SP
+s_001493,36326,ribeirao preto,SP
+s_001494,51180,santos,SP
+s_001495,62198,salvador,BA
+s_001496,48200,florianopolis,SC
+s_001497,85481,santos,SP
+s_001498,52714,fortaleza,CE
+s_001499,46739,belem,PA
+s_001500,57843,belem,PA
+s_001501,83905,curitiba,PR
+s_001502,87624,brasilia,DF
+s_001503,33583,guarulhos,SP
+s_001504,13527,guarulhos,SP
+s_001505,37479,vitoria,ES
+s_001506,48185,vitoria,ES
+s_001507,63627,belo horizonte,MG
+s_001508,28242,santos,SP
+s_001509,41722,campinas,SP
+s_001510,96332,recife,PE
+s_001511,65460,porto alegre,RS
+s_001512,19694,belem,PA
+s_001513,88372,vitoria,ES
+s_001514,86315,santos,SP
+s_001515,80040,belem,PA
+s_001516,64827,sao bernardo do campo,SP
+s_001517,14818,guarulhos,SP
+s_001518,80373,goiania,GO
+s_001519,93647,ribeirao preto,SP
+s_001520,24335,belo horizonte,MG
+s_001521,96193,fortaleza,CE
+s_001522,31802,goiania,GO
+s_001523,15806,ribeirao preto,SP
+s_001524,94545,niteroi,RJ
+s_001525,53463,belem,PA
+s_001526,23886,manaus,AM
+s_001527,22924,sao paulo,SP
+s_001528,39098,recife,PE
+s_001529,77999,sao bernardo do campo,SP
+s_001530,86089,guarulhos,SP
+s_001531,38971,niteroi,RJ
+s_001532,59036,vitoria,ES
+s_001533,70694,belem,PA
+s_001534,75597,niteroi,RJ
+s_001535,55215,porto alegre,RS
+s_001536,73277,sao paulo,SP
+s_001537,48722,curitiba,PR
+s_001538,21253,manaus,AM
+s_001539,28569,curitiba,PR
+s_001540,50880,goiania,GO
+s_001541,69681,florianopolis,SC
+s_001542,78303,brasilia,DF
+s_001543,55652,santos,SP
+s_001544,22795,santos,SP
+s_001545,69303,vitoria,ES
+s_001546,18804,florianopolis,SC
+s_001547,15856,campinas,SP
+s_001548,12960,curitiba,PR
+s_001549,94930,florianopolis,SC
+s_001550,98754,curitiba,PR
+s_001551,41970,salvador,BA
+s_001552,32865,sao bernardo do campo,SP
+s_001553,30989,guarulhos,SP
+s_001554,83380,florianopolis,SC
+s_001555,70562,manaus,AM
+s_001556,63090,fortaleza,CE
+s_001557,34430,salvador,BA
+s_001558,61849,manaus,AM
+s_001559,90492,sao paulo,SP
+s_001560,68926,brasilia,DF
+s_001561,66302,niteroi,RJ
+s_001562,10583,belem,PA
+s_001563,36972,brasilia,DF
+s_001564,18200,recife,PE
+s_001565,23336,niteroi,RJ
+s_001566,34505,guarulhos,SP
+s_001567,52727,goiania,GO
+s_001568,69972,brasilia,DF
+s_001569,44387,curitiba,PR
+s_001570,79168,santos,SP
+s_001571,88246,florianopolis,SC
+s_001572,90125,belem,PA
+s_001573,86939,belem,PA
+s_001574,55603,curitiba,PR
+s_001575,70012,goiania,GO
+s_001576,32613,ribeirao preto,SP
+s_001577,90541,campinas,SP
+s_001578,21108,niteroi,RJ
+s_001579,51049,porto alegre,RS
+s_001580,41270,curitiba,PR
+s_001581,25328,campinas,SP
+s_001582,58929,salvador,BA
+s_001583,76954,porto alegre,RS
+s_001584,64819,belem,PA
+s_001585,28070,ribeirao preto,SP
+s_001586,60293,niteroi,RJ
+s_001587,34347,manaus,AM
+s_001588,93296,santos,SP
+s_001589,94575,guarulhos,SP
+s_001590,82733,salvador,BA
+s_001591,74178,salvador,BA
+s_001592,28388,campinas,SP
+s_001593,51232,salvador,BA
+s_001594,91187,vitoria,ES
+s_001595,57059,rio de janeiro,RJ
+s_001596,73518,sao paulo,SP
+s_001597,35575,porto alegre,RS
+s_001598,83607,belem,PA
+s_001599,95599,sao bernardo do campo,SP
+s_001600,63626,santos,SP
+s_001601,64477,santos,SP
+s_001602,74054,vitoria,ES
+s_001603,20835,salvador,BA
+s_001604,14044,niteroi,RJ
+s_001605,48284,fortaleza,CE
+s_001606,46025,rio de janeiro,RJ
+s_001607,80465,fortaleza,CE
+s_001608,32047,campinas,SP
+s_001609,84140,vitoria,ES
+s_001610,82053,santos,SP
+s_001611,24838,sao bernardo do campo,SP
+s_001612,24969,niteroi,RJ
+s_001613,81186,recife,PE
+s_001614,81046,goiania,GO
+s_001615,67850,rio de janeiro,RJ
+s_001616,38644,guarulhos,SP
+s_001617,23423,manaus,AM
+s_001618,49021,fortaleza,CE
+s_001619,68947,rio de janeiro,RJ
+s_001620,55688,recife,PE
+s_001621,67549,belo horizonte,MG
+s_001622,41056,curitiba,PR
+s_001623,87060,brasilia,DF
+s_001624,89988,goiania,GO
+s_001625,31755,manaus,AM
+s_001626,28249,ribeirao preto,SP
+s_001627,37124,brasilia,DF
+s_001628,84720,rio de janeiro,RJ
+s_001629,79767,goiania,GO
+s_001630,88231,recife,PE
+s_001631,32069,guarulhos,SP
+s_001632,48356,florianopolis,SC
+s_001633,85069,campinas,SP
+s_001634,77425,recife,PE
+s_001635,27771,curitiba,PR
+s_001636,17770,manaus,AM
+s_001637,95969,recife,PE
+s_001638,27392,porto alegre,RS
+s_001639,29168,fortaleza,CE
+s_001640,42447,florianopolis,SC
+s_001641,74154,belem,PA
+s_001642,85684,porto alegre,RS
+s_001643,92288,recife,PE
+s_001644,59174,manaus,AM
+s_001645,19898,vitoria,ES
+s_001646,62802,belo horizonte,MG
+s_001647,46467,sao bernardo do campo,SP
+s_001648,69597,goiania,GO
+s_001649,52898,santos,SP
+s_001650,10324,niteroi,RJ
+s_001651,70089,belo horizonte,MG
+s_001652,18300,goiania,GO
+s_001653,62129,guarulhos,SP
+s_001654,66314,brasilia,DF
+s_001655,74843,brasilia,DF
+s_001656,52318,recife,PE
+s_001657,54270,campinas,SP
+s_001658,85750,guarulhos,SP
+s_001659,84205,porto alegre,RS
+s_001660,55054,santos,SP
+s_001661,16021,rio de janeiro,RJ
+s_001662,92074,curitiba,PR
+s_001663,12134,vitoria,ES
+s_001664,30707,curitiba,PR
+s_001665,69836,vitoria,ES
+s_001666,66072,sao paulo,SP
+s_001667,27290,brasilia,DF
+s_001668,30837,campinas,SP
+s_001669,22234,recife,PE
+s_001670,42819,goiania,GO
+s_001671,58738,belo horizonte,MG
+s_001672,16787,salvador,BA
+s_001673,91999,belem,PA
+s_001674,40689,campinas,SP
+s_001675,95915,manaus,AM
+s_001676,22475,belo horizonte,MG
+s_001677,37973,sao paulo,SP
+s_001678,20215,santos,SP
+s_001679,87814,porto alegre,RS
+s_001680,78084,fortaleza,CE
+s_001681,11217,vitoria,ES
+s_001682,55032,sao paulo,SP
+s_001683,65353,curitiba,PR
+s_001684,72613,porto alegre,RS
+s_001685,40008,belo horizonte,MG
+s_001686,21708,belem,PA
+s_001687,23526,curitiba,PR
+s_001688,58177,florianopolis,SC
+s_001689,27973,campinas,SP
+s_001690,27451,belem,PA
+s_001691,18966,porto alegre,RS
+s_001692,83831,sao bernardo do campo,SP
+s_001693,89995,sao paulo,SP
+s_001694,67684,salvador,BA
+s_001695,37925,goiania,GO
+s_001696,63963,porto alegre,RS
+s_001697,99989,ribeirao preto,SP
+s_001698,38474,vitoria,ES
+s_001699,23168,belo horizonte,MG
+s_001700,26142,porto alegre,RS
+s_001701,60335,niteroi,RJ
+s_001702,66280,goiania,GO
+s_001703,28327,florianopolis,SC
+s_001704,46302,fortaleza,CE
+s_001705,42527,belo horizonte,MG
+s_001706,88774,guarulhos,SP
+s_001707,89638,ribeirao preto,SP
+s_001708,13515,campinas,SP
+s_001709,36928,campinas,SP
+s_001710,89551,sao bernardo do campo,SP
+s_001711,34726,sao bernardo do campo,SP
+s_001712,48737,belem,PA
+s_001713,41370,rio de janeiro,RJ
+s_001714,60578,santos,SP
+s_001715,41599,curitiba,PR
+s_001716,93634,santos,SP
+s_001717,19307,ribeirao preto,SP
+s_001718,11581,sao bernardo do campo,SP
+s_001719,51480,goiania,GO
+s_001720,60703,porto alegre,RS
+s_001721,65163,niteroi,RJ
+s_001722,81612,goiania,GO
+s_001723,71736,salvador,BA
+s_001724,12187,belo horizonte,MG
+s_001725,18851,niteroi,RJ
+s_001726,44365,sao paulo,SP
+s_001727,15220,brasilia,DF
+s_001728,62163,rio de janeiro,RJ
+s_001729,47550,sao bernardo do campo,SP
+s_001730,64451,sao bernardo do campo,SP
+s_001731,62727,manaus,AM
+s_001732,93956,belo horizonte,MG
+s_001733,80471,guarulhos,SP
+s_001734,30012,ribeirao preto,SP
+s_001735,20957,recife,PE
+s_001736,20357,campinas,SP
+s_001737,36633,sao bernardo do campo,SP
+s_001738,80305,porto alegre,RS
+s_001739,61213,florianopolis,SC
+s_001740,93138,niteroi,RJ
+s_001741,50654,belo horizonte,MG
+s_001742,41278,manaus,AM
+s_001743,42044,rio de janeiro,RJ
+s_001744,66948,belo horizonte,MG
+s_001745,69424,curitiba,PR
+s_001746,89800,ribeirao preto,SP
+s_001747,50539,rio de janeiro,RJ
+s_001748,25655,salvador,BA
+s_001749,27984,sao paulo,SP
+s_001750,31473,sao paulo,SP
+s_001751,55443,santos,SP
+s_001752,77793,sao bernardo do campo,SP
+s_001753,31884,recife,PE
+s_001754,26637,goiania,GO
+s_001755,25473,recife,PE
+s_001756,53910,sao paulo,SP
+s_001757,45649,manaus,AM
+s_001758,18371,sao bernardo do campo,SP
+s_001759,85582,recife,PE
+s_001760,75031,belo horizonte,MG
+s_001761,76949,vitoria,ES
+s_001762,17266,goiania,GO
+s_001763,84302,santos,SP
+s_001764,58193,salvador,BA
+s_001765,43438,salvador,BA
+s_001766,85223,curitiba,PR
+s_001767,39937,curitiba,PR
+s_001768,10336,sao bernardo do campo,SP
+s_001769,11610,rio de janeiro,RJ
+s_001770,16026,fortaleza,CE
+s_001771,57707,santos,SP
+s_001772,29671,belem,PA
+s_001773,14635,salvador,BA
+s_001774,95944,guarulhos,SP
+s_001775,39427,manaus,AM
+s_001776,42540,florianopolis,SC
+s_001777,51934,manaus,AM
+s_001778,20208,recife,PE
+s_001779,58864,niteroi,RJ
+s_001780,75803,curitiba,PR
+s_001781,33507,rio de janeiro,RJ
+s_001782,77603,fortaleza,CE
+s_001783,62550,rio de janeiro,RJ
+s_001784,70960,belo horizonte,MG
+s_001785,50723,campinas,SP
+s_001786,21322,florianopolis,SC
+s_001787,69866,guarulhos,SP
+s_001788,58354,sao paulo,SP
+s_001789,48219,brasilia,DF
+s_001790,49834,niteroi,RJ
+s_001791,41795,ribeirao preto,SP
+s_001792,58270,vitoria,ES
+s_001793,74665,niteroi,RJ
+s_001794,81638,brasilia,DF
+s_001795,29735,fortaleza,CE
+s_001796,63744,sao paulo,SP
+s_001797,40539,sao paulo,SP
+s_001798,55406,guarulhos,SP
+s_001799,53911,sao paulo,SP
+s_001800,96154,sao paulo,SP
+s_001801,50306,belem,PA
+s_001802,36895,curitiba,PR
+s_001803,41217,sao bernardo do campo,SP
+s_001804,74491,manaus,AM
+s_001805,28661,rio de janeiro,RJ
+s_001806,22193,recife,PE
+s_001807,40339,rio de janeiro,RJ
+s_001808,64140,sao bernardo do campo,SP
+s_001809,70091,goiania,GO
+s_001810,86122,belo horizonte,MG
+s_001811,76247,curitiba,PR
+s_001812,93521,porto alegre,RS
+s_001813,19808,belem,PA
+s_001814,84425,niteroi,RJ
+s_001815,67014,rio de janeiro,RJ
+s_001816,41034,porto alegre,RS
+s_001817,44208,campinas,SP
+s_001818,61505,florianopolis,SC
+s_001819,51688,florianopolis,SC
+s_001820,45645,vitoria,ES
+s_001821,19789,fortaleza,CE
+s_001822,27840,brasilia,DF
+s_001823,24283,niteroi,RJ
+s_001824,23848,porto alegre,RS
+s_001825,68925,salvador,BA
+s_001826,51160,vitoria,ES
+s_001827,25825,manaus,AM
+s_001828,56961,guarulhos,SP
+s_001829,69233,brasilia,DF
+s_001830,70731,campinas,SP
+s_001831,25717,recife,PE
+s_001832,30658,belo horizonte,MG
+s_001833,89076,campinas,SP
+s_001834,38183,rio de janeiro,RJ
+s_001835,29441,florianopolis,SC
+s_001836,42534,belo horizonte,MG
+s_001837,61936,goiania,GO
+s_001838,16416,sao bernardo do campo,SP
+s_001839,44100,campinas,SP
+s_001840,14073,salvador,BA
+s_001841,69270,belem,PA
+s_001842,82105,guarulhos,SP
+s_001843,22415,fortaleza,CE
+s_001844,23357,vitoria,ES
+s_001845,25919,porto alegre,RS
+s_001846,18083,sao paulo,SP
+s_001847,27133,fortaleza,CE
+s_001848,62505,brasilia,DF
+s_001849,99952,goiania,GO
+s_001850,86326,belo horizonte,MG
+s_001851,43924,niteroi,RJ
+s_001852,12857,belo horizonte,MG
+s_001853,35919,belo horizonte,MG
+s_001854,26880,vitoria,ES
+s_001855,53456,belo horizonte,MG
+s_001856,15596,curitiba,PR
+s_001857,16637,vitoria,ES
+s_001858,85220,salvador,BA
+s_001859,61773,manaus,AM
+s_001860,13864,santos,SP
+s_001861,99550,belem,PA
+s_001862,32650,manaus,AM
+s_001863,38143,goiania,GO
+s_001864,46042,salvador,BA
+s_001865,68459,recife,PE
+s_001866,14541,porto alegre,RS
+s_001867,91156,ribeirao preto,SP
+s_001868,42215,ribeirao preto,SP
+s_001869,75390,campinas,SP
+s_001870,82179,manaus,AM
+s_001871,17992,santos,SP
+s_001872,46670,belo horizonte,MG
+s_001873,27987,belem,PA
+s_001874,36143,manaus,AM
+s_001875,42656,sao bernardo do campo,SP
+s_001876,12559,guarulhos,SP
+s_001877,57069,belem,PA
+s_001878,81371,santos,SP
+s_001879,55093,santos,SP
+s_001880,75849,niteroi,RJ
+s_001881,60905,florianopolis,SC
+s_001882,33568,recife,PE
+s_001883,51795,sao paulo,SP
+s_001884,38707,ribeirao preto,SP
+s_001885,46822,sao paulo,SP
+s_001886,71824,rio de janeiro,RJ
+s_001887,56849,sao bernardo do campo,SP
+s_001888,40508,niteroi,RJ
+s_001889,23124,salvador,BA
+s_001890,96096,fortaleza,CE
+s_001891,44934,fortaleza,CE
+s_001892,17328,guarulhos,SP
+s_001893,85457,fortaleza,CE
+s_001894,56504,belem,PA
+s_001895,33081,salvador,BA
+s_001896,87662,fortaleza,CE
+s_001897,57026,florianopolis,SC
+s_001898,13697,niteroi,RJ
+s_001899,84403,goiania,GO
+s_001900,28625,niteroi,RJ
+s_001901,34672,niteroi,RJ
+s_001902,81057,santos,SP
+s_001903,33010,campinas,SP
+s_001904,14975,santos,SP
+s_001905,17362,belo horizonte,MG
+s_001906,88861,fortaleza,CE
+s_001907,12612,fortaleza,CE
+s_001908,72650,sao bernardo do campo,SP
+s_001909,53481,sao paulo,SP
+s_001910,36406,ribeirao preto,SP
+s_001911,54663,porto alegre,RS
+s_001912,52413,salvador,BA
+s_001913,12872,rio de janeiro,RJ
+s_001914,86888,porto alegre,RS
+s_001915,24538,porto alegre,RS
+s_001916,57826,sao bernardo do campo,SP
+s_001917,58967,belo horizonte,MG
+s_001918,86810,belem,PA
+s_001919,54113,curitiba,PR
+s_001920,52284,campinas,SP
+s_001921,30644,porto alegre,RS
+s_001922,93789,manaus,AM
+s_001923,95089,santos,SP
+s_001924,32833,florianopolis,SC
+s_001925,90440,guarulhos,SP
+s_001926,39260,goiania,GO
+s_001927,32983,niteroi,RJ
+s_001928,50215,belem,PA
+s_001929,26691,campinas,SP
+s_001930,10235,salvador,BA
+s_001931,61327,niteroi,RJ
+s_001932,14244,niteroi,RJ
+s_001933,88956,salvador,BA
+s_001934,90134,florianopolis,SC
+s_001935,93839,fortaleza,CE
+s_001936,23645,niteroi,RJ
+s_001937,28434,santos,SP
+s_001938,20198,florianopolis,SC
+s_001939,55457,fortaleza,CE
+s_001940,32005,florianopolis,SC
+s_001941,97821,belo horizonte,MG
+s_001942,68540,florianopolis,SC
+s_001943,44761,sao paulo,SP
+s_001944,42707,brasilia,DF
+s_001945,55938,belo horizonte,MG
+s_001946,24160,recife,PE
+s_001947,16310,sao paulo,SP
+s_001948,67438,belem,PA
+s_001949,31802,manaus,AM
+s_001950,74629,manaus,AM
+s_001951,56036,belem,PA
+s_001952,59197,guarulhos,SP
+s_001953,72847,curitiba,PR
+s_001954,95323,niteroi,RJ
+s_001955,31319,fortaleza,CE
+s_001956,19661,vitoria,ES
+s_001957,48654,rio de janeiro,RJ
+s_001958,51774,sao paulo,SP
+s_001959,23726,recife,PE
+s_001960,54801,belo horizonte,MG
+s_001961,59212,salvador,BA
+s_001962,19830,salvador,BA
+s_001963,22203,guarulhos,SP
+s_001964,87860,florianopolis,SC
+s_001965,73273,ribeirao preto,SP
+s_001966,66534,sao paulo,SP
+s_001967,89602,salvador,BA
+s_001968,30591,manaus,AM
+s_001969,23272,rio de janeiro,RJ
+s_001970,36941,florianopolis,SC
+s_001971,63645,brasilia,DF
+s_001972,80795,guarulhos,SP
+s_001973,96585,recife,PE
+s_001974,48980,campinas,SP
+s_001975,22571,fortaleza,CE
+s_001976,61498,rio de janeiro,RJ
+s_001977,82045,niteroi,RJ
+s_001978,30131,santos,SP
+s_001979,57294,rio de janeiro,RJ
+s_001980,66047,sao paulo,SP
+s_001981,48607,belo horizonte,MG
+s_001982,72957,ribeirao preto,SP
+s_001983,22712,brasilia,DF
+s_001984,37125,sao paulo,SP
+s_001985,93648,salvador,BA
+s_001986,20739,campinas,SP
+s_001987,25139,santos,SP
+s_001988,62096,campinas,SP
+s_001989,74106,santos,SP
+s_001990,21945,recife,PE
+s_001991,60793,guarulhos,SP
+s_001992,58630,salvador,BA
+s_001993,58418,belem,PA
+s_001994,68428,salvador,BA
+s_001995,44510,rio de janeiro,RJ
+s_001996,70956,vitoria,ES
+s_001997,39654,recife,PE
+s_001998,83956,recife,PE
+s_001999,29808,rio de janeiro,RJ
+s_002000,21233,curitiba,PR
+s_002001,80968,goiania,GO
+s_002002,87296,manaus,AM
+s_002003,82561,fortaleza,CE
+s_002004,60738,rio de janeiro,RJ
+s_002005,64870,sao bernardo do campo,SP
+s_002006,72236,guarulhos,SP
+s_002007,40886,niteroi,RJ
+s_002008,49171,santos,SP
+s_002009,61747,belo horizonte,MG
+s_002010,75811,rio de janeiro,RJ
+s_002011,77740,niteroi,RJ
+s_002012,98805,niteroi,RJ
+s_002013,29326,ribeirao preto,SP
+s_002014,68856,curitiba,PR
+s_002015,31910,salvador,BA
+s_002016,35260,brasilia,DF
+s_002017,15593,porto alegre,RS
+s_002018,20271,manaus,AM
+s_002019,36465,manaus,AM
+s_002020,87994,porto alegre,RS
+s_002021,51910,recife,PE
+s_002022,21406,belo horizonte,MG
+s_002023,82923,belem,PA
+s_002024,82358,belem,PA
+s_002025,46202,florianopolis,SC
+s_002026,70051,sao bernardo do campo,SP
+s_002027,91665,sao paulo,SP
+s_002028,78493,niteroi,RJ
+s_002029,24748,manaus,AM
+s_002030,29613,manaus,AM
+s_002031,84264,porto alegre,RS
+s_002032,86372,niteroi,RJ
+s_002033,23845,curitiba,PR
+s_002034,23237,niteroi,RJ
+s_002035,80206,campinas,SP
+s_002036,63856,goiania,GO
+s_002037,60206,recife,PE
+s_002038,84976,santos,SP
+s_002039,72003,ribeirao preto,SP
+s_002040,32570,rio de janeiro,RJ
+s_002041,62818,recife,PE
+s_002042,91034,porto alegre,RS
+s_002043,99235,ribeirao preto,SP
+s_002044,15083,belem,PA
+s_002045,53449,belem,PA
+s_002046,16460,fortaleza,CE
+s_002047,45203,santos,SP
+s_002048,12651,goiania,GO
+s_002049,49722,florianopolis,SC
+s_002050,46745,campinas,SP
+s_002051,99764,santos,SP
+s_002052,39878,curitiba,PR
+s_002053,49384,porto alegre,RS
+s_002054,52056,vitoria,ES
+s_002055,64627,recife,PE
+s_002056,94614,ribeirao preto,SP
+s_002057,34633,belo horizonte,MG
+s_002058,37707,vitoria,ES
+s_002059,73499,manaus,AM
+s_002060,59009,sao bernardo do campo,SP
+s_002061,77537,rio de janeiro,RJ
+s_002062,18600,salvador,BA
+s_002063,76426,campinas,SP
+s_002064,27779,belem,PA
+s_002065,84537,sao bernardo do campo,SP
+s_002066,32772,sao paulo,SP
+s_002067,36309,brasilia,DF
+s_002068,42701,rio de janeiro,RJ
+s_002069,69827,rio de janeiro,RJ
+s_002070,57235,rio de janeiro,RJ
+s_002071,45910,brasilia,DF
+s_002072,70846,goiania,GO
+s_002073,62028,sao bernardo do campo,SP
+s_002074,99282,curitiba,PR
+s_002075,41711,sao paulo,SP
+s_002076,74066,goiania,GO
+s_002077,68471,ribeirao preto,SP
+s_002078,72204,salvador,BA
+s_002079,82264,niteroi,RJ
+s_002080,55121,goiania,GO
+s_002081,43903,salvador,BA
+s_002082,47364,belo horizonte,MG
+s_002083,60667,sao paulo,SP
+s_002084,31352,rio de janeiro,RJ
+s_002085,38091,niteroi,RJ
+s_002086,94853,fortaleza,CE
+s_002087,98826,fortaleza,CE
+s_002088,45269,brasilia,DF
+s_002089,77276,manaus,AM
+s_002090,99417,sao paulo,SP
+s_002091,72140,sao paulo,SP
+s_002092,94852,porto alegre,RS
+s_002093,88792,salvador,BA
+s_002094,39329,sao paulo,SP
+s_002095,89736,recife,PE
+s_002096,94245,campinas,SP
+s_002097,65549,recife,PE
+s_002098,55706,belem,PA
+s_002099,43029,vitoria,ES
+s_002100,71171,brasilia,DF
+s_002101,98761,campinas,SP
+s_002102,91737,sao bernardo do campo,SP
+s_002103,86609,belem,PA
+s_002104,10963,curitiba,PR
+s_002105,96816,sao bernardo do campo,SP
+s_002106,83591,goiania,GO
+s_002107,89829,ribeirao preto,SP
+s_002108,49121,campinas,SP
+s_002109,73142,curitiba,PR
+s_002110,54077,belo horizonte,MG
+s_002111,93964,recife,PE
+s_002112,46291,florianopolis,SC
+s_002113,95998,recife,PE
+s_002114,34688,campinas,SP
+s_002115,77802,porto alegre,RS
+s_002116,17441,fortaleza,CE
+s_002117,62965,ribeirao preto,SP
+s_002118,99228,florianopolis,SC
+s_002119,13336,porto alegre,RS
+s_002120,48745,santos,SP
+s_002121,64862,recife,PE
+s_002122,60891,belem,PA
+s_002123,86418,rio de janeiro,RJ
+s_002124,34892,niteroi,RJ
+s_002125,39145,florianopolis,SC
+s_002126,93665,guarulhos,SP
+s_002127,98063,santos,SP
+s_002128,76494,goiania,GO
+s_002129,32280,campinas,SP
+s_002130,33741,guarulhos,SP
+s_002131,22793,campinas,SP
+s_002132,26769,santos,SP
+s_002133,83273,recife,PE
+s_002134,99091,salvador,BA
+s_002135,95778,florianopolis,SC
+s_002136,39131,belo horizonte,MG
+s_002137,39272,goiania,GO
+s_002138,65112,campinas,SP
+s_002139,58717,florianopolis,SC
+s_002140,86751,recife,PE
+s_002141,70786,campinas,SP
+s_002142,71674,curitiba,PR
+s_002143,93151,rio de janeiro,RJ
+s_002144,86062,niteroi,RJ
+s_002145,19334,ribeirao preto,SP
+s_002146,35499,santos,SP
+s_002147,25704,sao bernardo do campo,SP
+s_002148,79446,belem,PA
+s_002149,64146,campinas,SP
+s_002150,29762,rio de janeiro,RJ
+s_002151,36253,porto alegre,RS
+s_002152,63633,florianopolis,SC
+s_002153,69974,niteroi,RJ
+s_002154,51469,porto alegre,RS
+s_002155,20592,salvador,BA
+s_002156,53598,santos,SP
+s_002157,51079,salvador,BA
+s_002158,10617,rio de janeiro,RJ
+s_002159,45851,vitoria,ES
+s_002160,32099,brasilia,DF
+s_002161,30766,niteroi,RJ
+s_002162,21539,santos,SP
+s_002163,90541,porto alegre,RS
+s_002164,93032,manaus,AM
+s_002165,62873,manaus,AM
+s_002166,72573,manaus,AM
+s_002167,10611,belem,PA
+s_002168,79963,rio de janeiro,RJ
+s_002169,58903,brasilia,DF
+s_002170,52233,sao paulo,SP
+s_002171,34979,sao bernardo do campo,SP
+s_002172,98702,sao paulo,SP
+s_002173,92141,sao paulo,SP
+s_002174,39657,fortaleza,CE
+s_002175,50906,goiania,GO
+s_002176,23462,porto alegre,RS
+s_002177,75973,belem,PA
+s_002178,50123,niteroi,RJ
+s_002179,18557,salvador,BA
+s_002180,49085,rio de janeiro,RJ
+s_002181,69759,campinas,SP
+s_002182,88167,sao bernardo do campo,SP
+s_002183,54280,sao bernardo do campo,SP
+s_002184,27536,manaus,AM
+s_002185,74248,florianopolis,SC
+s_002186,34697,goiania,GO
+s_002187,62873,salvador,BA
+s_002188,39939,sao paulo,SP
+s_002189,27197,fortaleza,CE
+s_002190,12872,brasilia,DF
+s_002191,76143,niteroi,RJ
+s_002192,26143,salvador,BA
+s_002193,95267,goiania,GO
+s_002194,59177,rio de janeiro,RJ
+s_002195,80088,recife,PE
+s_002196,16368,ribeirao preto,SP
+s_002197,16286,ribeirao preto,SP
+s_002198,95664,curitiba,PR
+s_002199,16322,sao paulo,SP
+s_002200,64627,curitiba,PR
+s_002201,59840,vitoria,ES
+s_002202,81733,curitiba,PR
+s_002203,72180,recife,PE
+s_002204,36934,porto alegre,RS
+s_002205,49467,sao paulo,SP
+s_002206,96725,manaus,AM
+s_002207,96832,curitiba,PR
+s_002208,45386,sao bernardo do campo,SP
+s_002209,89381,ribeirao preto,SP
+s_002210,64896,porto alegre,RS
+s_002211,77054,curitiba,PR
+s_002212,25431,ribeirao preto,SP
+s_002213,24943,campinas,SP
+s_002214,75239,curitiba,PR
+s_002215,89823,brasilia,DF
+s_002216,44471,brasilia,DF
+s_002217,36433,sao bernardo do campo,SP
+s_002218,63707,goiania,GO
+s_002219,31020,campinas,SP
+s_002220,81845,rio de janeiro,RJ
+s_002221,37222,santos,SP
+s_002222,53332,santos,SP
+s_002223,10358,fortaleza,CE
+s_002224,98032,sao paulo,SP
+s_002225,24474,belo horizonte,MG
+s_002226,97690,niteroi,RJ
+s_002227,29548,santos,SP
+s_002228,77070,belo horizonte,MG
+s_002229,23276,belo horizonte,MG
+s_002230,94454,recife,PE
+s_002231,69867,fortaleza,CE
+s_002232,44619,campinas,SP
+s_002233,16564,vitoria,ES
+s_002234,32898,curitiba,PR
+s_002235,48085,rio de janeiro,RJ
+s_002236,98705,goiania,GO
+s_002237,65836,florianopolis,SC
+s_002238,22451,curitiba,PR
+s_002239,11267,rio de janeiro,RJ
+s_002240,96947,porto alegre,RS
+s_002241,53078,salvador,BA
+s_002242,67372,goiania,GO
+s_002243,45167,ribeirao preto,SP
+s_002244,58840,belo horizonte,MG
+s_002245,33969,florianopolis,SC
+s_002246,62530,curitiba,PR
+s_002247,69839,belem,PA
+s_002248,60556,recife,PE
+s_002249,65278,santos,SP
+s_002250,24818,salvador,BA
+s_002251,17686,porto alegre,RS
+s_002252,23593,salvador,BA
+s_002253,87430,manaus,AM
+s_002254,84572,santos,SP
+s_002255,33758,vitoria,ES
+s_002256,59774,ribeirao preto,SP
+s_002257,90131,goiania,GO
+s_002258,99714,sao paulo,SP
+s_002259,73318,porto alegre,RS
+s_002260,24802,santos,SP
+s_002261,67761,manaus,AM
+s_002262,18301,rio de janeiro,RJ
+s_002263,95848,recife,PE
+s_002264,11620,florianopolis,SC
+s_002265,85582,sao bernardo do campo,SP
+s_002266,39358,niteroi,RJ
+s_002267,78039,florianopolis,SC
+s_002268,91033,sao bernardo do campo,SP
+s_002269,66734,curitiba,PR
+s_002270,73167,fortaleza,CE
+s_002271,96993,goiania,GO
+s_002272,29484,belem,PA
+s_002273,90335,guarulhos,SP
+s_002274,11526,rio de janeiro,RJ
+s_002275,76265,salvador,BA
+s_002276,74990,santos,SP
+s_002277,19812,salvador,BA
+s_002278,52026,santos,SP
+s_002279,53371,fortaleza,CE
+s_002280,16599,recife,PE
+s_002281,39190,sao bernardo do campo,SP
+s_002282,94320,guarulhos,SP
+s_002283,62858,belem,PA
+s_002284,20332,fortaleza,CE
+s_002285,68220,vitoria,ES
+s_002286,68733,niteroi,RJ
+s_002287,75333,belo horizonte,MG
+s_002288,51426,vitoria,ES
+s_002289,75191,curitiba,PR
+s_002290,23453,sao paulo,SP
+s_002291,64046,belem,PA
+s_002292,83024,rio de janeiro,RJ
+s_002293,10022,guarulhos,SP
+s_002294,89194,belo horizonte,MG
+s_002295,93563,ribeirao preto,SP
+s_002296,76628,campinas,SP
+s_002297,37112,guarulhos,SP
+s_002298,54676,vitoria,ES
+s_002299,17113,goiania,GO
+s_002300,69566,fortaleza,CE
+s_002301,83420,florianopolis,SC
+s_002302,88636,ribeirao preto,SP
+s_002303,96136,santos,SP
+s_002304,69314,goiania,GO
+s_002305,22771,curitiba,PR
+s_002306,10287,fortaleza,CE
+s_002307,56548,florianopolis,SC
+s_002308,81786,campinas,SP
+s_002309,59006,sao bernardo do campo,SP
+s_002310,16000,curitiba,PR
+s_002311,74542,salvador,BA
+s_002312,63636,porto alegre,RS
+s_002313,43330,curitiba,PR
+s_002314,35679,ribeirao preto,SP
+s_002315,25826,brasilia,DF
+s_002316,38257,belem,PA
+s_002317,34979,vitoria,ES
+s_002318,24125,florianopolis,SC
+s_002319,16094,manaus,AM
+s_002320,26150,niteroi,RJ
+s_002321,69950,vitoria,ES
+s_002322,76086,niteroi,RJ
+s_002323,75382,porto alegre,RS
+s_002324,79515,sao paulo,SP
+s_002325,82512,rio de janeiro,RJ
+s_002326,86692,manaus,AM
+s_002327,76628,santos,SP
+s_002328,85832,salvador,BA
+s_002329,26827,salvador,BA
+s_002330,60778,curitiba,PR
+s_002331,89450,ribeirao preto,SP
+s_002332,76074,florianopolis,SC
+s_002333,64875,belem,PA
+s_002334,42537,ribeirao preto,SP
+s_002335,62149,recife,PE
+s_002336,48557,florianopolis,SC
+s_002337,27481,vitoria,ES
+s_002338,64099,porto alegre,RS
+s_002339,77147,ribeirao preto,SP
+s_002340,81802,campinas,SP
+s_002341,82559,florianopolis,SC
+s_002342,36330,brasilia,DF
+s_002343,91810,brasilia,DF
+s_002344,99995,campinas,SP
+s_002345,98129,goiania,GO
+s_002346,95208,porto alegre,RS
+s_002347,76046,salvador,BA
+s_002348,93476,guarulhos,SP
+s_002349,25126,florianopolis,SC
+s_002350,83699,goiania,GO
+s_002351,86389,santos,SP
+s_002352,97445,niteroi,RJ
+s_002353,98374,manaus,AM
+s_002354,47477,guarulhos,SP
+s_002355,11673,manaus,AM
+s_002356,23955,sao bernardo do campo,SP
+s_002357,59921,sao paulo,SP
+s_002358,16955,porto alegre,RS
+s_002359,36201,rio de janeiro,RJ
+s_002360,31094,recife,PE
+s_002361,99573,campinas,SP
+s_002362,29192,recife,PE
+s_002363,48684,rio de janeiro,RJ
+s_002364,80932,brasilia,DF
+s_002365,57013,rio de janeiro,RJ
+s_002366,23432,vitoria,ES
+s_002367,98542,ribeirao preto,SP
+s_002368,39400,guarulhos,SP
+s_002369,60972,guarulhos,SP
+s_002370,76967,fortaleza,CE
+s_002371,97096,campinas,SP
+s_002372,60014,rio de janeiro,RJ
+s_002373,64600,belem,PA
+s_002374,82368,florianopolis,SC
+s_002375,11699,rio de janeiro,RJ
+s_002376,36619,recife,PE
+s_002377,68073,ribeirao preto,SP
+s_002378,93071,fortaleza,CE
+s_002379,87120,goiania,GO
+s_002380,89087,guarulhos,SP
+s_002381,35362,brasilia,DF
+s_002382,68827,campinas,SP
+s_002383,99477,salvador,BA
+s_002384,34507,belo horizonte,MG
+s_002385,77350,salvador,BA
+s_002386,59440,curitiba,PR
+s_002387,66165,rio de janeiro,RJ
+s_002388,82954,recife,PE
+s_002389,27048,recife,PE
+s_002390,86544,salvador,BA
+s_002391,10739,recife,PE
+s_002392,71122,florianopolis,SC
+s_002393,15235,porto alegre,RS
+s_002394,52287,porto alegre,RS
+s_002395,16665,ribeirao preto,SP
+s_002396,96755,ribeirao preto,SP
+s_002397,74297,campinas,SP
+s_002398,82110,niteroi,RJ
+s_002399,19552,goiania,GO
+s_002400,78864,florianopolis,SC
+s_002401,34100,fortaleza,CE
+s_002402,18936,sao bernardo do campo,SP
+s_002403,30889,sao bernardo do campo,SP
+s_002404,81182,manaus,AM
+s_002405,62876,guarulhos,SP
+s_002406,55796,belo horizonte,MG
+s_002407,37964,fortaleza,CE
+s_002408,53393,florianopolis,SC
+s_002409,48479,goiania,GO
+s_002410,91039,brasilia,DF
+s_002411,72240,sao bernardo do campo,SP
+s_002412,95105,guarulhos,SP
+s_002413,25036,sao paulo,SP
+s_002414,68414,goiania,GO
+s_002415,94182,fortaleza,CE
+s_002416,91412,ribeirao preto,SP
+s_002417,15226,fortaleza,CE
+s_002418,59987,florianopolis,SC
+s_002419,60577,curitiba,PR
+s_002420,80809,recife,PE
+s_002421,13238,campinas,SP
+s_002422,59146,sao bernardo do campo,SP
+s_002423,76680,sao bernardo do campo,SP
+s_002424,73806,vitoria,ES
+s_002425,48854,rio de janeiro,RJ
+s_002426,51984,brasilia,DF
+s_002427,20793,sao bernardo do campo,SP
+s_002428,31940,curitiba,PR
+s_002429,79888,guarulhos,SP
+s_002430,92173,sao paulo,SP
+s_002431,37627,belo horizonte,MG
+s_002432,99837,brasilia,DF
+s_002433,23621,manaus,AM
+s_002434,80484,brasilia,DF
+s_002435,94746,manaus,AM
+s_002436,99921,belo horizonte,MG
+s_002437,13113,porto alegre,RS
+s_002438,53478,vitoria,ES
+s_002439,21471,rio de janeiro,RJ
+s_002440,17113,belo horizonte,MG
+s_002441,43018,salvador,BA
+s_002442,19232,guarulhos,SP
+s_002443,39837,niteroi,RJ
+s_002444,63429,recife,PE
+s_002445,69129,belem,PA
+s_002446,66757,belem,PA
+s_002447,12213,florianopolis,SC
+s_002448,98250,belem,PA
+s_002449,80101,curitiba,PR
+s_002450,94072,sao paulo,SP
+s_002451,18288,ribeirao preto,SP
+s_002452,15965,niteroi,RJ
+s_002453,56884,belo horizonte,MG
+s_002454,23911,sao bernardo do campo,SP
+s_002455,99899,campinas,SP
+s_002456,89503,campinas,SP
+s_002457,46899,belo horizonte,MG
+s_002458,59992,vitoria,ES
+s_002459,96602,belem,PA
+s_002460,72126,sao paulo,SP
+s_002461,79922,salvador,BA
+s_002462,27875,fortaleza,CE
+s_002463,81529,belem,PA
+s_002464,93105,campinas,SP
+s_002465,49066,porto alegre,RS
+s_002466,11461,goiania,GO
+s_002467,82754,guarulhos,SP
+s_002468,26152,porto alegre,RS
+s_002469,10659,rio de janeiro,RJ
+s_002470,88204,niteroi,RJ
+s_002471,80405,belem,PA
+s_002472,21157,guarulhos,SP
+s_002473,37532,campinas,SP
+s_002474,37752,goiania,GO
+s_002475,94663,manaus,AM
+s_002476,28671,sao bernardo do campo,SP
+s_002477,34116,salvador,BA
+s_002478,90856,fortaleza,CE
+s_002479,35470,recife,PE
+s_002480,33770,curitiba,PR
+s_002481,17128,niteroi,RJ
+s_002482,70458,guarulhos,SP
+s_002483,19587,guarulhos,SP
+s_002484,98039,campinas,SP
+s_002485,42858,belo horizonte,MG
+s_002486,35875,curitiba,PR
+s_002487,73857,niteroi,RJ
+s_002488,56810,florianopolis,SC
+s_002489,97988,porto alegre,RS
+s_002490,23113,fortaleza,CE
+s_002491,91201,campinas,SP
+s_002492,35362,belo horizonte,MG
+s_002493,73682,florianopolis,SC
+s_002494,53036,vitoria,ES
+s_002495,96431,ribeirao preto,SP
+s_002496,86568,campinas,SP
+s_002497,84128,porto alegre,RS
+s_002498,57774,niteroi,RJ
+s_002499,66139,florianopolis,SC
+s_002500,10633,salvador,BA
+s_002501,42266,florianopolis,SC
+s_002502,93995,fortaleza,CE
+s_002503,46264,manaus,AM
+s_002504,27603,goiania,GO
+s_002505,72908,florianopolis,SC
+s_002506,68373,vitoria,ES
+s_002507,50038,goiania,GO
+s_002508,82308,santos,SP
+s_002509,33038,curitiba,PR
+s_002510,20744,ribeirao preto,SP
+s_002511,28350,recife,PE
+s_002512,35746,guarulhos,SP
+s_002513,92132,recife,PE
+s_002514,19882,belo horizonte,MG
+s_002515,76476,sao paulo,SP
+s_002516,86269,sao paulo,SP
+s_002517,63101,niteroi,RJ
+s_002518,37886,niteroi,RJ
+s_002519,82298,rio de janeiro,RJ
+s_002520,81233,recife,PE
+s_002521,71879,guarulhos,SP
+s_002522,57948,porto alegre,RS
+s_002523,39269,belem,PA
+s_002524,48141,niteroi,RJ
+s_002525,70909,porto alegre,RS
+s_002526,76900,sao bernardo do campo,SP
+s_002527,62007,belo horizonte,MG
+s_002528,75820,goiania,GO
+s_002529,96858,sao paulo,SP
+s_002530,90482,fortaleza,CE
+s_002531,77388,salvador,BA
+s_002532,68487,porto alegre,RS
+s_002533,33480,salvador,BA
+s_002534,84162,niteroi,RJ
+s_002535,73373,porto alegre,RS
+s_002536,15297,goiania,GO
+s_002537,73916,fortaleza,CE
+s_002538,18239,fortaleza,CE
+s_002539,58422,recife,PE
+s_002540,15610,fortaleza,CE
+s_002541,77880,brasilia,DF
+s_002542,60868,goiania,GO
+s_002543,69591,santos,SP
+s_002544,15230,rio de janeiro,RJ
+s_002545,23529,florianopolis,SC
+s_002546,93042,sao bernardo do campo,SP
+s_002547,44513,recife,PE
+s_002548,81349,niteroi,RJ
+s_002549,32786,niteroi,RJ
+s_002550,95678,belem,PA
+s_002551,57880,belem,PA
+s_002552,95634,niteroi,RJ
+s_002553,77720,belo horizonte,MG
+s_002554,59326,recife,PE
+s_002555,77681,fortaleza,CE
+s_002556,56255,belem,PA
+s_002557,73813,goiania,GO
+s_002558,89195,santos,SP
+s_002559,75776,sao paulo,SP
+s_002560,67658,porto alegre,RS
+s_002561,40145,salvador,BA
+s_002562,77441,belo horizonte,MG
+s_002563,37723,recife,PE
+s_002564,34498,porto alegre,RS
+s_002565,57477,salvador,BA
+s_002566,25509,ribeirao preto,SP
+s_002567,64344,fortaleza,CE
+s_002568,24855,florianopolis,SC
+s_002569,98503,santos,SP
+s_002570,72786,santos,SP
+s_002571,87436,brasilia,DF
+s_002572,94837,salvador,BA
+s_002573,12942,manaus,AM
+s_002574,15655,fortaleza,CE
+s_002575,85168,porto alegre,RS
+s_002576,31119,niteroi,RJ
+s_002577,92515,porto alegre,RS
+s_002578,15136,sao bernardo do campo,SP
+s_002579,29249,niteroi,RJ
+s_002580,31802,rio de janeiro,RJ
+s_002581,33597,recife,PE
+s_002582,63143,sao bernardo do campo,SP
+s_002583,83872,ribeirao preto,SP
+s_002584,96736,sao paulo,SP
+s_002585,21239,campinas,SP
+s_002586,68877,brasilia,DF
+s_002587,71789,ribeirao preto,SP
+s_002588,32356,santos,SP
+s_002589,63840,fortaleza,CE
+s_002590,28705,ribeirao preto,SP
+s_002591,33839,niteroi,RJ
+s_002592,96461,ribeirao preto,SP
+s_002593,44671,sao bernardo do campo,SP
+s_002594,99861,salvador,BA
+s_002595,69437,florianopolis,SC
+s_002596,87410,ribeirao preto,SP
+s_002597,40122,belo horizonte,MG
+s_002598,60523,belem,PA
+s_002599,24230,porto alegre,RS
+s_002600,36522,sao paulo,SP
+s_002601,76107,sao bernardo do campo,SP
+s_002602,29603,manaus,AM
+s_002603,22622,ribeirao preto,SP
+s_002604,72373,salvador,BA
+s_002605,88618,ribeirao preto,SP
+s_002606,79655,rio de janeiro,RJ
+s_002607,25403,sao bernardo do campo,SP
+s_002608,73208,belo horizonte,MG
+s_002609,89098,porto alegre,RS
+s_002610,10157,guarulhos,SP
+s_002611,78425,manaus,AM
+s_002612,58546,manaus,AM
+s_002613,79444,rio de janeiro,RJ
+s_002614,40079,manaus,AM
+s_002615,59969,santos,SP
+s_002616,87207,goiania,GO
+s_002617,22807,niteroi,RJ
+s_002618,27548,manaus,AM
+s_002619,72539,recife,PE
+s_002620,20986,fortaleza,CE
+s_002621,88419,campinas,SP
+s_002622,63562,guarulhos,SP
+s_002623,34775,recife,PE
+s_002624,10932,sao paulo,SP
+s_002625,78490,niteroi,RJ
+s_002626,78126,curitiba,PR
+s_002627,59155,sao paulo,SP
+s_002628,51405,brasilia,DF
+s_002629,57483,manaus,AM
+s_002630,30287,curitiba,PR
+s_002631,95403,manaus,AM
+s_002632,43244,niteroi,RJ
+s_002633,80268,recife,PE
+s_002634,84012,manaus,AM
+s_002635,90200,goiania,GO
+s_002636,99208,recife,PE
+s_002637,36698,belem,PA
+s_002638,82365,manaus,AM
+s_002639,73238,guarulhos,SP
+s_002640,58524,salvador,BA
+s_002641,82733,guarulhos,SP
+s_002642,43263,santos,SP
+s_002643,85713,campinas,SP
+s_002644,62183,goiania,GO
+s_002645,96413,porto alegre,RS
+s_002646,40116,curitiba,PR
+s_002647,31206,vitoria,ES
+s_002648,38109,curitiba,PR
+s_002649,62502,sao bernardo do campo,SP
+s_002650,82165,florianopolis,SC
+s_002651,99727,ribeirao preto,SP
+s_002652,31068,rio de janeiro,RJ
+s_002653,93345,belem,PA
+s_002654,21939,sao paulo,SP
+s_002655,71822,porto alegre,RS
+s_002656,67065,ribeirao preto,SP
+s_002657,18399,belo horizonte,MG
+s_002658,39067,recife,PE
+s_002659,20490,goiania,GO
+s_002660,14948,ribeirao preto,SP
+s_002661,62513,belem,PA
+s_002662,96006,ribeirao preto,SP
+s_002663,47548,sao bernardo do campo,SP
+s_002664,17531,ribeirao preto,SP
+s_002665,93924,salvador,BA
+s_002666,67536,santos,SP
+s_002667,36438,sao paulo,SP
+s_002668,47487,sao bernardo do campo,SP
+s_002669,14405,brasilia,DF
+s_002670,76918,ribeirao preto,SP
+s_002671,40365,sao bernardo do campo,SP
+s_002672,32214,ribeirao preto,SP
+s_002673,57151,rio de janeiro,RJ
+s_002674,95854,fortaleza,CE
+s_002675,30636,sao paulo,SP
+s_002676,46167,belo horizonte,MG
+s_002677,56285,belem,PA
+s_002678,63143,belem,PA
+s_002679,36255,niteroi,RJ
+s_002680,12014,sao bernardo do campo,SP
+s_002681,21818,belo horizonte,MG
+s_002682,47289,guarulhos,SP
+s_002683,86406,guarulhos,SP
+s_002684,55544,goiania,GO
+s_002685,39661,recife,PE
+s_002686,35496,ribeirao preto,SP
+s_002687,62947,vitoria,ES
+s_002688,10609,niteroi,RJ
+s_002689,32942,recife,PE
+s_002690,76353,manaus,AM
+s_002691,83220,curitiba,PR
+s_002692,75951,belo horizonte,MG
+s_002693,54560,campinas,SP
+s_002694,77277,curitiba,PR
+s_002695,80504,recife,PE
+s_002696,42786,niteroi,RJ
+s_002697,59424,vitoria,ES
+s_002698,73390,niteroi,RJ
+s_002699,54520,fortaleza,CE
+s_002700,99337,vitoria,ES
+s_002701,86916,vitoria,ES
+s_002702,73172,sao paulo,SP
+s_002703,43792,curitiba,PR
+s_002704,60157,belo horizonte,MG
+s_002705,98724,fortaleza,CE
+s_002706,51383,fortaleza,CE
+s_002707,56281,manaus,AM
+s_002708,80208,sao bernardo do campo,SP
+s_002709,44517,sao paulo,SP
+s_002710,47655,fortaleza,CE
+s_002711,62288,belo horizonte,MG
+s_002712,19965,florianopolis,SC
+s_002713,33394,guarulhos,SP
+s_002714,51139,santos,SP
+s_002715,38647,goiania,GO
+s_002716,45268,niteroi,RJ
+s_002717,99536,salvador,BA
+s_002718,75404,brasilia,DF
+s_002719,40783,brasilia,DF
+s_002720,44787,fortaleza,CE
+s_002721,40042,brasilia,DF
+s_002722,42728,brasilia,DF
+s_002723,56665,ribeirao preto,SP
+s_002724,23983,porto alegre,RS
+s_002725,20287,curitiba,PR
+s_002726,90455,santos,SP
+s_002727,80972,sao paulo,SP
+s_002728,73214,rio de janeiro,RJ
+s_002729,91352,goiania,GO
+s_002730,74532,florianopolis,SC
+s_002731,46009,niteroi,RJ
+s_002732,33969,santos,SP
+s_002733,46735,sao bernardo do campo,SP
+s_002734,39110,belem,PA
+s_002735,26809,niteroi,RJ
+s_002736,78909,rio de janeiro,RJ
+s_002737,72694,manaus,AM
+s_002738,14268,guarulhos,SP
+s_002739,55519,sao bernardo do campo,SP
+s_002740,99959,belem,PA
+s_002741,69925,salvador,BA
+s_002742,77922,curitiba,PR
+s_002743,51373,vitoria,ES
+s_002744,11549,sao paulo,SP
+s_002745,59732,brasilia,DF
+s_002746,23205,niteroi,RJ
+s_002747,57395,florianopolis,SC
+s_002748,44039,ribeirao preto,SP
+s_002749,81901,salvador,BA
+s_002750,41082,recife,PE
+s_002751,71780,recife,PE
+s_002752,54970,ribeirao preto,SP
+s_002753,34105,goiania,GO
+s_002754,65567,santos,SP
+s_002755,64931,brasilia,DF
+s_002756,57851,goiania,GO
+s_002757,46651,belem,PA
+s_002758,33578,vitoria,ES
+s_002759,27188,niteroi,RJ
+s_002760,99916,niteroi,RJ
+s_002761,23090,fortaleza,CE
+s_002762,40907,recife,PE
+s_002763,66651,guarulhos,SP
+s_002764,35698,belem,PA
+s_002765,29601,porto alegre,RS
+s_002766,11276,santos,SP
+s_002767,65249,salvador,BA
+s_002768,27625,santos,SP
+s_002769,79990,sao bernardo do campo,SP
+s_002770,73782,florianopolis,SC
+s_002771,42895,campinas,SP
+s_002772,84427,guarulhos,SP
+s_002773,62219,rio de janeiro,RJ
+s_002774,31409,curitiba,PR
+s_002775,38241,rio de janeiro,RJ
+s_002776,72460,recife,PE
+s_002777,68963,curitiba,PR
+s_002778,44048,florianopolis,SC
+s_002779,57226,goiania,GO
+s_002780,83071,guarulhos,SP
+s_002781,55107,recife,PE
+s_002782,63970,sao paulo,SP
+s_002783,56018,curitiba,PR
+s_002784,36077,ribeirao preto,SP
+s_002785,85483,niteroi,RJ
+s_002786,32877,guarulhos,SP
+s_002787,56544,campinas,SP
+s_002788,98236,florianopolis,SC
+s_002789,73896,sao bernardo do campo,SP
+s_002790,20277,vitoria,ES
+s_002791,90434,belem,PA
+s_002792,70784,campinas,SP
+s_002793,31964,porto alegre,RS
+s_002794,65288,florianopolis,SC
+s_002795,84925,ribeirao preto,SP
+s_002796,19351,belem,PA
+s_002797,31233,belo horizonte,MG
+s_002798,39912,florianopolis,SC
+s_002799,51533,florianopolis,SC
+s_002800,45058,campinas,SP
+s_002801,94494,ribeirao preto,SP
+s_002802,45553,belem,PA
+s_002803,57600,vitoria,ES
+s_002804,78280,niteroi,RJ
+s_002805,64262,vitoria,ES
+s_002806,34102,salvador,BA
+s_002807,26389,sao paulo,SP
+s_002808,96772,fortaleza,CE
+s_002809,20494,recife,PE
+s_002810,31877,brasilia,DF
+s_002811,23501,belem,PA
+s_002812,18361,curitiba,PR
+s_002813,81884,santos,SP
+s_002814,13455,rio de janeiro,RJ
+s_002815,78679,belem,PA
+s_002816,23622,belo horizonte,MG
+s_002817,91015,recife,PE
+s_002818,21050,porto alegre,RS
+s_002819,50549,belem,PA
+s_002820,42426,fortaleza,CE
+s_002821,68085,campinas,SP
+s_002822,27206,porto alegre,RS
+s_002823,32361,sao bernardo do campo,SP
+s_002824,14607,sao paulo,SP
+s_002825,52624,goiania,GO
+s_002826,71235,santos,SP
+s_002827,45705,guarulhos,SP
+s_002828,68306,guarulhos,SP
+s_002829,80685,porto alegre,RS
+s_002830,87441,salvador,BA
+s_002831,69840,ribeirao preto,SP
+s_002832,67013,niteroi,RJ
+s_002833,93858,sao bernardo do campo,SP
+s_002834,50587,guarulhos,SP
+s_002835,73131,goiania,GO
+s_002836,39770,guarulhos,SP
+s_002837,67915,belo horizonte,MG
+s_002838,57943,campinas,SP
+s_002839,44053,manaus,AM
+s_002840,49789,porto alegre,RS
+s_002841,10012,sao paulo,SP
+s_002842,27865,sao bernardo do campo,SP
+s_002843,47586,goiania,GO
+s_002844,80136,santos,SP
+s_002845,74478,sao paulo,SP
+s_002846,49270,santos,SP
+s_002847,66418,sao paulo,SP
+s_002848,88250,campinas,SP
+s_002849,10946,fortaleza,CE
+s_002850,58974,guarulhos,SP
+s_002851,63967,brasilia,DF
+s_002852,67292,guarulhos,SP
+s_002853,42754,belem,PA
+s_002854,94671,salvador,BA
+s_002855,59592,belem,PA
+s_002856,44469,fortaleza,CE
+s_002857,65343,belo horizonte,MG
+s_002858,77713,fortaleza,CE
+s_002859,99737,ribeirao preto,SP
+s_002860,47313,recife,PE
+s_002861,45235,guarulhos,SP
+s_002862,34641,manaus,AM
+s_002863,33908,belo horizonte,MG
+s_002864,47957,porto alegre,RS
+s_002865,93478,curitiba,PR
+s_002866,90967,vitoria,ES
+s_002867,45669,vitoria,ES
+s_002868,74486,ribeirao preto,SP
+s_002869,52027,brasilia,DF
+s_002870,29942,sao paulo,SP
+s_002871,80119,rio de janeiro,RJ
+s_002872,34371,sao paulo,SP
+s_002873,46977,curitiba,PR
+s_002874,26389,recife,PE
+s_002875,11075,vitoria,ES
+s_002876,21822,fortaleza,CE
+s_002877,11930,porto alegre,RS
+s_002878,38467,santos,SP
+s_002879,65082,florianopolis,SC
+s_002880,75325,campinas,SP
+s_002881,70776,goiania,GO
+s_002882,53286,rio de janeiro,RJ
+s_002883,29148,belo horizonte,MG
+s_002884,44931,rio de janeiro,RJ
+s_002885,19356,belem,PA
+s_002886,71623,guarulhos,SP
+s_002887,35191,salvador,BA
+s_002888,60014,recife,PE
+s_002889,25985,sao paulo,SP
+s_002890,60436,fortaleza,CE
+s_002891,42396,vitoria,ES
+s_002892,36106,rio de janeiro,RJ
+s_002893,22315,vitoria,ES
+s_002894,97294,sao bernardo do campo,SP
+s_002895,71974,brasilia,DF
+s_002896,99318,belem,PA
+s_002897,52344,campinas,SP
+s_002898,92465,salvador,BA
+s_002899,82034,rio de janeiro,RJ
+s_002900,26009,sao bernardo do campo,SP
+s_002901,73075,recife,PE
+s_002902,36047,campinas,SP
+s_002903,16827,goiania,GO
+s_002904,24801,brasilia,DF
+s_002905,92956,fortaleza,CE
+s_002906,52534,manaus,AM
+s_002907,31936,sao paulo,SP
+s_002908,86637,recife,PE
+s_002909,61879,curitiba,PR
+s_002910,11170,fortaleza,CE
+s_002911,86162,rio de janeiro,RJ
+s_002912,88146,santos,SP
+s_002913,58679,porto alegre,RS
+s_002914,42600,belo horizonte,MG
+s_002915,75525,salvador,BA
+s_002916,99908,belo horizonte,MG
+s_002917,54357,ribeirao preto,SP
+s_002918,17834,rio de janeiro,RJ
+s_002919,94485,goiania,GO
+s_002920,80300,porto alegre,RS
+s_002921,26492,curitiba,PR
+s_002922,40497,santos,SP
+s_002923,83184,florianopolis,SC
+s_002924,67503,goiania,GO
+s_002925,12798,brasilia,DF
+s_002926,56945,belem,PA
+s_002927,42859,porto alegre,RS
+s_002928,73609,rio de janeiro,RJ
+s_002929,83272,vitoria,ES
+s_002930,81137,campinas,SP
+s_002931,34874,santos,SP
+s_002932,34461,niteroi,RJ
+s_002933,55569,guarulhos,SP
+s_002934,71393,florianopolis,SC
+s_002935,88470,recife,PE
+s_002936,31016,guarulhos,SP
+s_002937,79617,belo horizonte,MG
+s_002938,68901,porto alegre,RS
+s_002939,44517,campinas,SP
+s_002940,58118,guarulhos,SP
+s_002941,10094,vitoria,ES
+s_002942,59681,sao bernardo do campo,SP
+s_002943,12453,salvador,BA
+s_002944,57720,ribeirao preto,SP
+s_002945,41298,ribeirao preto,SP
+s_002946,18302,florianopolis,SC
+s_002947,60789,guarulhos,SP
+s_002948,78690,brasilia,DF
+s_002949,82281,santos,SP
+s_002950,90352,porto alegre,RS
+s_002951,52283,campinas,SP
+s_002952,94004,manaus,AM
+s_002953,24478,florianopolis,SC
+s_002954,78576,curitiba,PR
+s_002955,15737,belo horizonte,MG
+s_002956,33414,porto alegre,RS
+s_002957,36486,rio de janeiro,RJ
+s_002958,73618,curitiba,PR
+s_002959,22943,brasilia,DF
+s_002960,84843,rio de janeiro,RJ
+s_002961,96235,belem,PA
+s_002962,78920,santos,SP
+s_002963,87371,ribeirao preto,SP
+s_002964,16433,recife,PE
+s_002965,38930,goiania,GO
+s_002966,19289,ribeirao preto,SP
+s_002967,37359,sao paulo,SP
+s_002968,20480,santos,SP
+s_002969,93744,vitoria,ES
+s_002970,57307,rio de janeiro,RJ
+s_002971,64519,guarulhos,SP
+s_002972,17641,goiania,GO
+s_002973,44840,ribeirao preto,SP
+s_002974,15328,sao bernardo do campo,SP
+s_002975,49833,belo horizonte,MG
+s_002976,38298,belo horizonte,MG
+s_002977,22729,sao bernardo do campo,SP
+s_002978,40279,curitiba,PR
+s_002979,60506,guarulhos,SP
+s_002980,35312,brasilia,DF
+s_002981,96098,sao bernardo do campo,SP
+s_002982,84714,fortaleza,CE
+s_002983,83193,salvador,BA
+s_002984,64419,guarulhos,SP
+s_002985,93705,curitiba,PR
+s_002986,56918,niteroi,RJ
+s_002987,97194,vitoria,ES
+s_002988,23644,manaus,AM
+s_002989,33644,salvador,BA
+s_002990,62632,guarulhos,SP
+s_002991,54238,sao bernardo do campo,SP
+s_002992,79979,salvador,BA
+s_002993,68066,ribeirao preto,SP
+s_002994,51307,goiania,GO
+s_002995,52553,guarulhos,SP
+s_002996,64046,goiania,GO
+s_002997,52395,manaus,AM
+s_002998,41551,ribeirao preto,SP
+s_002999,81516,niteroi,RJ
+s_003000,59160,brasilia,DF
+s_003001,43303,guarulhos,SP
+s_003002,69297,goiania,GO
+s_003003,62047,vitoria,ES
+s_003004,14543,sao paulo,SP
+s_003005,88087,campinas,SP
+s_003006,77844,sao paulo,SP
+s_003007,49562,porto alegre,RS
+s_003008,49365,sao paulo,SP
+s_003009,38157,fortaleza,CE
+s_003010,12844,florianopolis,SC
+s_003011,82569,recife,PE
+s_003012,82918,sao bernardo do campo,SP
+s_003013,84922,niteroi,RJ
+s_003014,22358,porto alegre,RS
+s_003015,70341,rio de janeiro,RJ
+s_003016,30461,goiania,GO
+s_003017,44732,porto alegre,RS
+s_003018,86304,goiania,GO
+s_003019,40539,fortaleza,CE
+s_003020,49361,recife,PE
+s_003021,84774,belo horizonte,MG
+s_003022,84588,belem,PA
+s_003023,20118,brasilia,DF
+s_003024,73246,florianopolis,SC
+s_003025,73999,salvador,BA
+s_003026,22499,niteroi,RJ
+s_003027,94181,ribeirao preto,SP
+s_003028,14898,campinas,SP
+s_003029,60010,niteroi,RJ
+s_003030,17329,belo horizonte,MG
+s_003031,55603,florianopolis,SC
+s_003032,64594,manaus,AM
+s_003033,39716,curitiba,PR
+s_003034,11498,ribeirao preto,SP
+s_003035,17094,belem,PA
+s_003036,78731,campinas,SP
+s_003037,51853,rio de janeiro,RJ
+s_003038,84044,guarulhos,SP
+s_003039,52838,porto alegre,RS
+s_003040,38940,sao bernardo do campo,SP
+s_003041,16621,porto alegre,RS
+s_003042,68407,belem,PA
+s_003043,85399,ribeirao preto,SP
+s_003044,21807,sao bernardo do campo,SP
+s_003045,66614,fortaleza,CE
+s_003046,61684,campinas,SP
+s_003047,27326,porto alegre,RS
+s_003048,20819,florianopolis,SC
+s_003049,84899,santos,SP
+s_003050,81847,rio de janeiro,RJ
+s_003051,44413,belem,PA
+s_003052,62235,belo horizonte,MG
+s_003053,66949,sao bernardo do campo,SP
+s_003054,27677,porto alegre,RS
+s_003055,83308,santos,SP
+s_003056,73944,brasilia,DF
+s_003057,95491,belem,PA
+s_003058,35703,niteroi,RJ
+s_003059,90739,guarulhos,SP
+s_003060,42275,sao bernardo do campo,SP
+s_003061,19390,fortaleza,CE
+s_003062,66369,recife,PE
+s_003063,99749,florianopolis,SC
+s_003064,21743,niteroi,RJ
+s_003065,98047,curitiba,PR
+s_003066,65514,manaus,AM
+s_003067,55653,goiania,GO
+s_003068,52039,brasilia,DF
+s_003069,87840,goiania,GO
+s_003070,49953,sao paulo,SP
+s_003071,55838,salvador,BA
+s_003072,67961,ribeirao preto,SP
+s_003073,29112,ribeirao preto,SP
+s_003074,15882,vitoria,ES
+s_003075,36173,fortaleza,CE
+s_003076,30446,goiania,GO
+s_003077,24728,belo horizonte,MG
+s_003078,41856,rio de janeiro,RJ
+s_003079,29356,ribeirao preto,SP
+s_003080,11800,campinas,SP
+s_003081,24585,florianopolis,SC
+s_003082,68990,campinas,SP
+s_003083,12981,santos,SP
+s_003084,37395,florianopolis,SC
+s_003085,37770,guarulhos,SP
+s_003086,81620,brasilia,DF
+s_003087,43902,sao bernardo do campo,SP
+s_003088,73311,guarulhos,SP
+s_003089,28526,ribeirao preto,SP
+s_003090,59362,sao paulo,SP
+s_003091,96969,niteroi,RJ
+s_003092,15699,sao bernardo do campo,SP
+s_003093,32324,recife,PE
+s_003094,47226,rio de janeiro,RJ
+s_003095,90997,brasilia,DF
